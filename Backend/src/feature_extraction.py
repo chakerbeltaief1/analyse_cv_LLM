@@ -227,7 +227,7 @@ def extract_projects(text):
     """Extrait les projets mentionnés dans le CV."""
     if not text:
         return []
-        
+    
     projects = []
     
     project_patterns = [
