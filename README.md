@@ -54,7 +54,7 @@ graph TD
 
 1. **Démarrer l'API Backend** :
    ```
-   cd backend
+   cd api
    python app.py
    ```
    L'API sera accessible à l'adresse : `http://127.0.0.1:5000`
