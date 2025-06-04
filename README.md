@@ -48,11 +48,11 @@ pip install -r requirements.txt
 Démarrer l'API Backend
 cd backend
 python app.py
-L'API sera accessible à l'adresse http://localhost:5000
+L'API sera accessible à l'adresse http://127.0.0.1:5000
 
 Lancer l'interface Streamlit
 cd frontend
 streamlit run streamlit_app.py
-L'interface sera disponible à l'adresse http://localhost:8501
+L'interface sera disponible à l'adresse http://localhost:8501/
 
 👨‍💻 Projet créé par Chaker Beltaief
