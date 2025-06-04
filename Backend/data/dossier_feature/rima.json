@@ -1,0 +1,186 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Rima Bilel",
+    "email": "rimabilel01@gmail.com",
+    "telephone": "+21694597995",
+    "adresse": "Avenue Du Dinar, Tunis 1058, Tunisie",
+    "github": "github.com/Rima200012",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "profil": "Récemment diplômée en ingénierie des technologies avancées, passionnée par la data et le développement de solutions analytiques.",
+  "experiences_professionnelles": [
+    {
+      "type": "Stage",
+      "poste": "Plateforme de gestion des données de recrutement (développée avec Django)",
+      "entreprise": "TriTUX Group",
+      "date_debut": "02/2024",
+      "date_fin": "08/2024",
+      "description": "Collecte et traitement des données : Extraction automatisée d offres d emploi et de CV à l aide de Selenium et BeautifulSoup, avec stockage structuré dans MongoDB.",
+      "competences_utilisees": [
+        "Python",
+        "Django",
+        "Selenium",
+        "BeautifulSoup",
+        "MongoDB"
+      ]
+    },
+    {
+      "type": "Stage",
+      "poste": "Nettoyage et analyse des données : Utilisation de Python (pandas, NumPy) pour nettoyer et traiter les données en vue du profilage des candidats et de l analyse des offres.",
+      "entreprise": "TriTUX Group",
+      "date_debut": "02/2024",
+      "date_fin": "08/2024",
+      "description": "Apprentissage automatique pour l analyse : Intégration d un modèle de machine learning (scikit- learn, spaCy) pour la correspondance entre les profils de candidats et les offres.",
+      "competences_utilisees": [
+        "Python",
+        "pandas",
+        "NumPy",
+        "scikit-learn",
+        "spaCy"
+      ]
+    },
+    {
+      "type": "Stage",
+      "poste": "Visualisation des données : Création de tableaux de bord interactifs avec Power BI et ReactJS.",
+      "entreprise": "TriTUX Group",
+      "date_debut": "02/2024",
+      "date_fin": "08/2024",
+      "description": "Environnement technique : Python, Django, MongoDB, ReactJS, Power BI.",
+      "competences_utilisees": [
+        "Python",
+        "Django",
+        "MongoDB",
+        "ReactJS",
+        "Power BI"
+      ]
+    },
+    {
+      "type": "Stage",
+      "poste": "Extraction, Transformation et Chargement des Données (ETL) : Mise en œuvre à l aide de Python (pandas, NumPy) et Talend.",
+      "entreprise": "Ebuild",
+      "date_debut": "07/2023",
+      "date_fin": "08/2023",
+      "description": "Traitement des données avec Python pour garantir la cohérence et la qualité des analyses.",
+      "competences_utilisees": [
+        "Python",
+        "pandas",
+        "NumPy",
+        "Talend"
+      ]
+    },
+    {
+      "type": "Stage",
+      "poste": "Nettoyage et Normalisation des Données : Traitement des données avec Python pour garantir la cohérence et la qualité des analyses.",
+      "entreprise": "Ebuild",
+      "date_debut": "07/2023",
+      "date_fin": "08/2023",
+      "description": "Intégration des Données et Mise en Place d un Data Warehouse : Utilisation de Talend pour une gestion structurée des données.",
+      "competences_utilisees": [
+        "Python",
+        "Talend"
+      ]
+    },
+    {
+      "type": "Stage",
+      "poste": "Création de Tableaux de Bord Interactifs : Réalisation d un dashboard CRM avec Tableau.",
+      "entreprise": "STB",
+      "date_debut": "07/2022",
+      "date_fin": "08/2022",
+      "description": "Analyse des besoins utilisateurs et définition des fonctionnalités.",
+      "competences_utilisees": [
+        "Tableau"
+      ]
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "Cycle d ingénieur en technologies avancées : Option : Systèmes Industriels et Compétitivité",
+      "diplome": "",
+      "etablissement": "ENSTAB-École Nationale des Sciences et Technologies Avancées de Borj Cedria",
+      "specialite": "",
+      "date_debut": "09/2021",
+      "date_fin": "09/2024",
+      "description": ""
+    },
+    {
+      "niveau": "Cycle préparatoire en Physique-Chimie : IPEIT-Institut Préparatoire aux Etudes d Ingénieurs de Tunis",
+      "diplome": "",
+      "etablissement": "IPEIT-Institut Préparatoire aux Etudes d Ingénieurs de Tunis",
+      "specialite": "",
+      "date_debut": "09/2019",
+      "date_fin": "07/2021",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "Projet de Fin d Année 2 Système automatisé de reconnaissance d empreintes digitales latentes (Google Colab, Python)",
+      "description": "Préparation des données : Nettoyage, structuration et traitement de données d empreintes digitales.",
+      "technologies": [
+        "Google Colab",
+        "Python"
+      ],
+      "responsabilites": [],
+      "date_debut": "2022",
+      "date_fin": "2023"
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "Python",
+      "SQL",
+      "MySQL",
+      "MongoDB"
+    ],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [
+      "Django",
+      "ReactJS",
+      "Power BI"
+    ],
+    "bases_donnees": [
+      "MongoDB"
+    ],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "Français",
+      "niveau": "avancé"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "intermédiaire"
+    }
+  ],
+  "vie_associative": [],
+  "certifications": [
+    {
+      "titre": "PL-300 certification: Microsoft Power BI Data Analyst/DA- 100",
+      "organisme": "Udemy",
+      "date": "2023",
+      "details": ""
+    },
+    {
+      "titre": "Practical Data Analysis - SQL Tableau with Real Projects",
+      "organisme": "Udemy",
+      "date": "2023",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [
+    "Lecture",
+    "Fitness",
+    "Padel"
+  ],
+  "metadata": {
+    "fichier_source": "rima.pdf",
+    "taille_texte": 3426,
+    "date_traitement": "2025-06-04 14:51:46",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

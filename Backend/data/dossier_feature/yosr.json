@@ -1,0 +1,159 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Yosr Gargouri",
+    "email": "gargouri.yosr2018@gmail.com",
+    "telephone": "+33 650257083",
+    "adresse": "",
+    "github": "",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "profil": "",
+  "experiences_professionnelles": [
+    {
+      "type": "CONSULTiNG CHEZ VALEO",
+      "poste": "DATA SCiENTiST COMPUTER ViSiON",
+      "entreprise": "VALEO",
+      "date_debut": "Juillet 2023",
+      "date_fin": "",
+      "description": "Détection de la présence d un bébé à l intérieur d un véhicule",
+      "competences_utilisees": [
+        "Python",
+        "Scikit Learn",
+        "TensorFlow",
+        "Keras",
+        "Pytorch",
+        "OpenCV",
+        "YOLO"
+      ]
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "",
+      "diplome": "",
+      "etablissement": "",
+      "specialite": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "Développement d une application bancaire avec contrôle automatisé des documents d identité",
+      "description": "",
+      "technologies": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "JWT (PyJWT)",
+        "API REST",
+        "Angular"
+      ],
+      "responsabilites": [],
+      "date_debut": "Décembre 2022",
+      "date_fin": "Mai 2023"
+    },
+    {
+      "titre": "Détection automatique d évènements dans un flux vidéo en contexte de production industrielle",
+      "description": "",
+      "technologies": [
+        "Python",
+        "OpenCV",
+        "PyTorch",
+        "YOLOv5",
+        "Scikit learn",
+        "chaînes de Markov",
+        "Gradient Boosting"
+      ],
+      "responsabilites": [],
+      "date_debut": "Février 2022",
+      "date_fin": "Août 2022"
+    },
+    {
+      "titre": "Développement d une technologie d automatisation de la vérification des pièces d identité",
+      "description": "",
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "OpenCV",
+        "Tesseract v4",
+        "Git"
+      ],
+      "responsabilites": [],
+      "date_debut": "Septembre 2021",
+      "date_fin": "Février 2022"
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "Python",
+      "R",
+      "SQL",
+      "PySpark",
+      "Spark",
+      "Matlab",
+      "java",
+      "C/C++",
+      "Django"
+    ],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [
+      "Visual studio",
+      "intellij",
+      "Hadoop",
+      "Cloudera",
+      "Docker",
+      "Jenkins",
+      "Git"
+    ],
+    "bases_donnees": [
+      "SQL",
+      "Oracle",
+      "PostgreSQL"
+    ],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "Arabe",
+      "niveau": ""
+    },
+    {
+      "langue": "Français",
+      "niveau": "Bon"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "Bon (TOEIC 815)"
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "yosr.pdf",
+    "taille_texte": 6006,
+    "date_traitement": "2025-06-04 15:05:58",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

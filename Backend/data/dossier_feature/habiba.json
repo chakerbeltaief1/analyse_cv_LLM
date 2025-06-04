@@ -1,0 +1,240 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Habiba Messaoudene",
+    "email": "habiba.messaoudene22@gmail.com",
+    "telephone": "+33 604 40 71 45",
+    "adresse": "Le Blanc-Mesnil (93150)",
+    "github": "",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "profil": "Étudiante en Mastère 1 Data Science IA à l IA School Paris, recherche une alternance dès septembre 2025",
+  "experiences_professionnelles": [
+    {
+      "type": "Alternance",
+      "poste": "",
+      "entreprise": "BNP Paribas, Paris",
+      "date_debut": "Août 2024",
+      "date_fin": "Octobre 2024",
+      "description": "Analyse d un dataset bancaire, modélisation (logistic regression, random forest, XGBoost)",
+      "competences_utilisees": [
+        "Python",
+        "Scikit-learn",
+        "SQL",
+        "Power BI"
+      ]
+    },
+    {
+      "type": "Stage",
+      "poste": "",
+      "entreprise": "Entreprise de Réparation Navale, Béjaïa",
+      "date_debut": "Juillet 2022",
+      "date_fin": "Septembre 2022",
+      "description": "Analyse des besoins et orientation vers les solutions adaptées",
+      "competences_utilisees": [
+        "Excel",
+        "Power BI",
+        "Python (Pandas)"
+      ]
+    },
+    {
+      "type": "Stage",
+      "poste": "",
+      "entreprise": "Sonelgaz Béjaïa",
+      "date_debut": "Juillet 2022",
+      "date_fin": "Septembre 2022",
+      "description": "Structuration des données pour optimiser la planification",
+      "competences_utilisees": [
+        "Excel",
+        "Power BI",
+        "Python (Pandas)"
+      ]
+    },
+    {
+      "type": "Stage",
+      "poste": "",
+      "entreprise": "IA School Paris",
+      "date_debut": "Février 2025",
+      "date_fin": "Mars 2025",
+      "description": "Conseillère d'accueil, analyse clientèle, optimisation des données opérationnelles",
+      "competences_utilisees": [
+        "Python",
+        "Scikit-learn",
+        "SQL",
+        "Power BI"
+      ]
+    },
+    {
+      "type": "Stage",
+      "poste": "",
+      "entreprise": "IA School Paris",
+      "date_debut": "Août 2024",
+      "date_fin": "Octobre 2024",
+      "description": "Analyse des données opérationnelles liées à la consommation et distribution d énergie",
+      "competences_utilisees": [
+        "Excel",
+        "Power BI",
+        "Python (Pandas)"
+      ]
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "Mastère 1",
+      "diplome": "Data Scientist IA",
+      "etablissement": "IA School Paris",
+      "specialite": "Data Science IA",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    },
+    {
+      "niveau": "Licence",
+      "diplome": "Mathématiques Appliquées",
+      "etablissement": "Université de Béjaïa, Algérie",
+      "specialite": "",
+      "date_debut": "2018",
+      "date_fin": "2022",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "Prédiction du Churn Client (Bancaire)",
+      "description": "Conseillère d'accueil, analyse clientèle, optimisation des données opérationnelles",
+      "technologies": [
+        "Power BI",
+        "Python",
+        "Scikit-learn"
+      ],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Analyse de Données",
+      "description": "Analyse des besoins et orientation vers les solutions adaptées",
+      "technologies": [
+        "Excel",
+        "Power BI",
+        "Python (Pandas)"
+      ],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Optimisation des Données Opérationnelles",
+      "description": "Structuration des données pour optimiser la planification",
+      "technologies": [
+        "Excel",
+        "Power BI",
+        "Python (Pandas)"
+      ],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Stage Analyse de Données",
+      "description": "Analyse des données opérationnelles liées à la consommation et distribution d énergie",
+      "technologies": [
+        "Excel",
+        "Power BI",
+        "Python (Pandas)"
+      ],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "Python",
+      "R",
+      "Java",
+      "SQL"
+    ],
+    "frameworks_bibliotheques": [
+      "Power BI",
+      "Scikit-learn",
+      "TensorFlow",
+      "NLP"
+    ],
+    "outils_developpement": [
+      "Git",
+      "LaTeX",
+      "Canva"
+    ],
+    "bases_donnees": [
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "methodologies": [
+      "Méthodes Agiles (Scrum)",
+      "Sécurité des données"
+    ],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "Arabe",
+      "niveau": "Langue maternelle"
+    },
+    {
+      "langue": "Français",
+      "niveau": "Niveau professionnel"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "Niveau intermédiaire"
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "IA School Paris",
+      "role": "",
+      "date_debut": "Février 2025",
+      "date_fin": "Mars 2025",
+      "description": ""
+    },
+    {
+      "organisation": "BNP Paribas, Paris",
+      "role": "",
+      "date_debut": "Août 2024",
+      "date_fin": "Octobre 2024",
+      "description": "Analyse d un dataset bancaire, modélisation (logistic regression, random forest, XGBoost)"
+    },
+    {
+      "organisation": "Entreprise de Réparation Navale, Béjaïa",
+      "role": "",
+      "date_debut": "Juillet 2022",
+      "date_fin": "Septembre 2022",
+      "description": "Analyse des besoins et orientation vers les solutions adaptées"
+    },
+    {
+      "organisation": "Sonelgaz Béjaïa",
+      "role": "",
+      "date_debut": "Juillet 2022",
+      "date_fin": "Septembre 2022",
+      "description": "Structuration des données pour optimiser la planification"
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "habiba.pdf",
+    "taille_texte": 2613,
+    "date_traitement": "2025-06-04 14:10:45",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

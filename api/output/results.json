@@ -1,0 +1,1330 @@
+[
+  {
+    "id": "414375f9-42c7-48c8-8dc9-7f490324de9a",
+    "nom_prenom": "Fatma Baklouti",
+    "email": "fatmabaklouti72@gmail.com",
+    "telephone": "+216 52 346 123",
+    "github": "",
+    "linkedin": "",
+    "portfolio": "",
+    "adresse": "Sakiet eddaier, Sfax",
+    "niveau_etudes": "Licence en technologie de l informatique specialité Développement des Systèmes d Information",
+    "experiences_professionnelles": [
+      {
+        "type": "",
+        "societe": "Yassino Dev",
+        "date_debut": "Janvier 2023 - Février 2023",
+        "date_fin": "",
+        "sujet": "Développement d un site web de blockchain en utilisant PHP"
+      },
+      {
+        "type": "",
+        "societe": "Anavid",
+        "date_debut": "Nov 2022-Mai 2023",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "projets": [
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "formation": [
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "competences": {
+      "techniques": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "SQL",
+        "PHP"
+      ],
+      "informatiques": [
+        "Machine Learning",
+        "Deep Learning"
+      ],
+      "outils": [
+        "GitHub",
+        "UML"
+      ]
+    },
+    "langues": [
+      {
+        "langue": "Arabe",
+        "niveau": ""
+      },
+      {
+        "langue": "Français",
+        "niveau": "intermédiaire"
+      },
+      {
+        "langue": "Anglais",
+        "niveau": "intermédiaire"
+      },
+      {
+        "langue": "Chinois",
+        "niveau": "débutant"
+      }
+    ],
+    "certifications": [],
+    "centres_interet": [],
+    "prediction": "web developer"
+  },
+  {
+    "id": "b531b672-dcea-4535-8dd4-c3266a16e587",
+    "nom_prenom": "Fatma Baklouti",
+    "email": "fatmabaklouti72@gmail.com",
+    "telephone": "+216 52 346 123",
+    "github": "",
+    "linkedin": "",
+    "adresse": "Sakiet eddaier, Sfax",
+    "niveau_etudes": "Lycée Mohamed Ali",
+    "experiences_professionnelles": [
+      {
+        "type": "Stage de perfectionnement",
+        "societe": "Yassino Dev",
+        "date_debut": "Janvier 2023",
+        "date_fin": "Février 2023",
+        "sujet": "Développement d'un site web de blockchain en utilisant PHP"
+      }
+    ],
+    "projets": [
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "formation": [
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "competences": {
+      "techniques": [],
+      "informatiques": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "SQL",
+        "PHP"
+      ],
+      "outils": [
+        "MongoDB",
+        "MySQL",
+        "Oracle",
+        "GitHub"
+      ]
+    },
+    "langues": [
+      {
+        "langue": "Arabe",
+        "niveau": "Langue maternelle"
+      }
+    ],
+    "certifications": [],
+    "centres_interet": [],
+    "prediction": "web developer"
+  },
+  {
+    "id": "5d5fc51c-c0ca-4419-9058-e2b3817c688b",
+    "nom_prenom": "",
+    "email": "chakerbeltaief1@gmail.com",
+    "telephone": "",
+    "github": "https://github.com/chakerbeltaief1",
+    "linkedin": "https://www.linkedin.com/in/chaker-b",
+    "adresse": "Rue du Port K M 7, Tunisie",
+    "niveau_etudes": "Master Professionnel en Data Scientist",
+    "experiences_professionnelles": [
+      {
+        "type": "",
+        "societe": "Université de Tunis",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "projets": [
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      },
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      },
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "formation": [
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      },
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "competences": {
+      "techniques": [
+        "Python",
+        "SQL",
+        "NOSQL",
+        "P O W E R B I",
+        "HTML",
+        "CSS"
+      ],
+      "informatiques": [],
+      "outils": []
+    },
+    "langues": [
+      {
+        "langue": "English",
+        "niveau": ""
+      },
+      {
+        "langue": "Français",
+        "niveau": ""
+      },
+      {
+        "langue": "Arabe",
+        "niveau": ""
+      }
+    ],
+    "certifications": [],
+    "centres_interet": [],
+    "prediction": "data engineer"
+  },
+  {
+    "id": "99f81676-edde-4159-b93b-58080d515440",
+    "nom_prenom": "CHAKER BELTAIEF",
+    "email": "chakerbeltaief1@gmail.com",
+    "telephone": "",
+    "github": "https://github.com/chakerbeltaief1",
+    "linkedin": "https://www.linkedin.com/in/chaker-b",
+    "portfolio": "portafolio.com",
+    "adresse": "50784084 R u e d e l   a é r o p o r t K M 7 S f a x, Tunisie",
+    "niveau_etudes": "Master Professionnel en Data Scientist Ecole Polytechnique Internationale de Tunis",
+    "experiences_professionnelles": [
+      {
+        "type": "",
+        "societe": "Université du Logiciel et de l'Informatique Scientifique (ULIS) - Sfax",
+        "date_debut": "2/2025",
+        "date_fin": "7/2025",
+        "sujet": "Conception et développement d un modèle d intelligence artificielle pour l extraction automatisée des données à partir des CV."
+      },
+      {
+        "type": "",
+        "societe": "AMI Les Ateliers Mécaniques Industriels",
+        "date_debut": "2/2022",
+        "date_fin": "4/2022",
+        "sujet": "Etude et Conception d un dispositif pour rectifier les diamètres extérieurs des poinçons sur affuteuse."
+      },
+      {
+        "type": "",
+        "societe": "Société de Production d Articles en Laiton - SOPAL",
+        "date_debut": "7/2021",
+        "date_fin": "8/2021",
+        "sujet": "Conception des produits industriels"
+      },
+      {
+        "type": "",
+        "societe": "Bureau de Poste, EL HAJEB - Sfax",
+        "date_debut": "7/2020",
+        "date_fin": "8/2020",
+        "sujet": "Guichetier en bureau de poste"
+      }
+    ],
+    "projets": [
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": "Projet My project 1: Projet de deep learning pour la détection du cancer du poumon à partir d images IRM"
+      },
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": "Projet Kaggle : Prévision d un Crédit Logement"
+      },
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": "Projet portefeuille d analyste de données : Analyse complète des données Covid-19"
+      },
+      {
+        "type": "",
+        "societe": "IBM",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": "Projet capstone d analyste de données IBM (Certificat professionnel IBM Data Analyst sur Coursera)"
+      }
+    ],
+    "formation": [
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      },
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "competences": {
+      "techniques": [
+        "Python",
+        "SQL",
+        "NOSQL",
+        "P O W E R B I",
+        "HTML",
+        "CSS"
+      ],
+      "informatiques": [
+        "Machine Learning",
+        "NLP",
+        "LLM",
+        "Deep Learning",
+        "Spark",
+        "Hadoop",
+        "Hive",
+        "Pig"
+      ],
+      "outils": []
+    },
+    "langues": [
+      {
+        "langue": "",
+        "niveau": ""
+      }
+    ],
+    "certifications": [],
+    "centres_interet": [],
+    "prediction": "data engineer"
+  },
+  {
+    "id": "946d1d60-e0a4-43d1-ba63-fa8e74bb34d2",
+    "nom_prenom": "CHAKER BELTAIEF",
+    "email": "chakerbeltaief1@gmail.com",
+    "telephone": "",
+    "github": "https://github.com/chakerbeltaief1",
+    "linkedin": "https://www.linkedin.com/in/chaker-b",
+    "adresse": "R u e d e l   a é r o p o r t K M 7 S f a x, Tunisie",
+    "niveau_etudes": "Master Professionnel en Data Scientist Ecole Polytechnique Internationale de Tunis",
+    "experiences_professionnelles": [
+      {
+        "type": "",
+        "societe": "Université du Logiciel et de la Gestion Industrielle - Sfax",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      },
+      {
+        "type": "",
+        "societe": "Société de Production d'Articles en Laiton - SOPAL",
+        "date_debut": "7/2020",
+        "date_fin": "8/2020",
+        "sujet": ""
+      },
+      {
+        "type": "",
+        "societe": "Bureau de Poste, El Hajeb - Sfax",
+        "date_debut": "7/2021",
+        "date_fin": "8/2021",
+        "sujet": ""
+      }
+    ],
+    "projets": [
+      {
+        "type": "",
+        "societe": "Projet portefeuille d'analyste de données",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      },
+      {
+        "type": "",
+        "societe": "Prévision d'un Crédit Logement",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "formation": [
+      {
+        "type": "",
+        "societe": "Ecole Polytechnique Internationale de Tunis",
+        "date_debut": "2023 - 2025",
+        "date_fin": "",
+        "sujet": "Master Professionnel en Data Scientist"
+      },
+      {
+        "type": "",
+        "societe": "Institut Supérieur De Gestion Industrielle De Sfax",
+        "date_debut": "2019 - 2022",
+        "date_fin": "",
+        "sujet": "Diplôme de Baccalauréat en Science Technique"
+      }
+    ],
+    "competences": {
+      "techniques": [],
+      "informatiques": [
+        "Python",
+        "SQL",
+        "NOSQL",
+        "POWEBI",
+        "HTML",
+        "CSS",
+        "Spark",
+        "Hadoop",
+        "Hive",
+        "Pig"
+      ],
+      "outils": []
+    },
+    "langues": [
+      {
+        "langue": "English",
+        "niveau": ""
+      },
+      {
+        "langue": "Français",
+        "niveau": ""
+      },
+      {
+        "langue": "Arabe",
+        "niveau": ""
+      }
+    ],
+    "certifications": [],
+    "centres_interet": [],
+    "prediction": "data engineer"
+  },
+  {
+    "id": "788bf4a9-b5b3-48f5-b130-cfb9fca98b03",
+    "nom_prenom": "Mohamed Lakdard Bellakdar",
+    "email": "mohamedbellakdar@gmail.com",
+    "telephone": "+216 29519207",
+    "github": "",
+    "linkedin": "",
+    "portfolio": "",
+    "adresse": "Hammam-lif, Ben Arous",
+    "niveau_etudes": "Génie Industriel",
+    "experiences_professionnelles": [
+      {
+        "type": "",
+        "societe": "Safran",
+        "date_debut": "Juin 2024 - Août 2024",
+        "date_fin": "",
+        "sujet": "Amélioration et optimisation dans l atelier actionneur"
+      }
+    ],
+    "projets": [
+      {
+        "type": "",
+        "societe": "Eleonetech, Bizerte",
+        "date_debut": "Cycle ingénieur en génie industriel Baccalauréat sciences expérimentales",
+        "date_fin": "",
+        "sujet": "Métier"
+      }
+    ],
+    "formation": [
+      {
+        "type": "",
+        "societe": "Institut Préparatoire aux Études d Ingénieurs el manar (IPEIEM), Tunisie",
+        "date_debut": "Septembre 2020 - juin 2022",
+        "date_fin": "",
+        "sujet": "Cycle préparatoire en Physiques - Chimie"
+      }
+    ],
+    "competences": {
+      "techniques": [
+        "Python"
+      ],
+      "informatiques": [
+        "SGDB",
+        "MySQL"
+      ],
+      "outils": [
+        "Catia V5",
+        "PLM-GMAO",
+        "Prelude production",
+        "Ms project",
+        "Power BI",
+        "Arena",
+        "Minitab",
+        "Camunda"
+      ]
+    },
+    "langues": [
+      {
+        "langue": "",
+        "niveau": ""
+      }
+    ],
+    "certifications": [],
+    "centres_interet": [],
+    "prediction": "consultant"
+  },
+  {
+    "nom_prenom": "Mohamed Bellakdar",
+    "email": "mohamedbellakdar@gmail.com",
+    "telephone": "+216 29519207",
+    "github": "",
+    "linkedin": "",
+    "portfolio": "",
+    "adresse": "Hammam-lif, Ben Arous",
+    "experiences_professionnelles": [
+      {
+        "type": "Stage technicien",
+        "societe": "Safran",
+        "date_debut": "Juin 2024",
+        "date_fin": "Août 2024",
+        "sujet": "Amélioration et optimisation dans l atelier actionneur"
+      }
+    ],
+    "projets": [
+      {
+        "type": "",
+        "societe": "Eleonetech",
+        "date_debut": "Cycle ingénieur en génie industriel",
+        "date_fin": "",
+        "sujet": "Développement d une application SPC"
+      }
+    ],
+    "formation": [
+      {
+        "type": "Cycle préparatoire en Physiques - Chimie",
+        "societe": "Institut Préparatoire aux Études d Ingénieurs el manar (IPEIEM)",
+        "date_debut": "Septembre 2020",
+        "date_fin": "Juin 2022"
+      }
+    ],
+    "competences": {
+      "langages de programmation": [
+        "Python"
+      ],
+      "outils d Analyse": [
+        "Minitab",
+        "Machine learning"
+      ]
+    },
+    "langues": [
+      {
+        "langue": "Arabe",
+        "niveau": ""
+      },
+      {
+        "langue": "Français",
+        "niveau": ""
+      },
+      {
+        "langue": "Anglais",
+        "niveau": "Bilingue"
+      }
+    ],
+    "certifications": [],
+    "centres_interet": [
+      "Cyclisme",
+      "Lecture Arabe",
+      "Maternelle",
+      "Français Bilingue",
+      "Anglais Professionnel",
+      "Langages de programmation: Python",
+      "SGBD : MySQL",
+      "CAO : Catia V5",
+      "GMAO : PLM-GMAO",
+      "GPAO : Prelude production",
+      "Gestion de projet : Ms project",
+      "Simulation : Arena",
+      "Outils d Analyse : Minitab"
+    ],
+    "id": "9f381ad4-eb52-4447-8575-091a8389ff59",
+    "prediction": "consultant"
+  },
+  {
+    "nom_prenom": "Mohamed Lakdadar Bellakdar",
+    "email": "mohamedbellakdar@gmail.com",
+    "telephone": "+21 629 519 207",
+    "github": "",
+    "linkedin": "",
+    "portfolio": "",
+    "adresse": "",
+    "experiences_professionnelles": [
+      {
+        "type": "Stage technicien",
+        "societe": "Safran, Dhari",
+        "date_debut": "Juin 2024 - Août 2024",
+        "date_fin": "Août 2024",
+        "sujet": "Amélioration et optimisation dans l atelier actionneur"
+      },
+      {
+        "type": "PFE",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "projets": [
+      {
+        "type": "Projet Métier",
+        "societe": "Eleonetech, Bizerte",
+        "date_debut": "Cycle ingénieur en génie industriel",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "formation": [
+      {
+        "type": "École Nationale d Ingénieurs de Bizerte (ENIB), Tunisie",
+        "date_debut": "Septembre 2022 - Avril 2024",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "competences": {
+      "langages de programmation": [
+        "Python"
+      ],
+      "gestion de projet": [
+        "Ms project",
+        "Microsoft Office"
+      ],
+      "simulation": [
+        "Arena"
+      ],
+      "outils d analyse": [
+        "Minitab"
+      ],
+      "machine learning": [],
+      "modélisation et exécution de processus (BPMN)": [
+        "Camunda"
+      ],
+      "outils de résolution de problèmes": [
+        "QQOQCCP",
+        "Pareto",
+        "DMAIC",
+        "PDCA"
+      ]
+    },
+    "langues": [
+      {
+        "langue": "Arabe",
+        "niveau": ""
+      }
+    ],
+    "certifications": [],
+    "centres_interet": [
+      "Cyclisme",
+      "Lecture"
+    ],
+    "id": "35f2c6bd-2c36-47c1-b87c-90273a2d6f18",
+    "prediction": "consultant"
+  },
+  {
+    "nom_prenom": "Fatma Baklouti",
+    "email": "fatmabaklouti72@gmail.com",
+    "telephone": "+216 52 346 123",
+    "github": "",
+    "linkedin": "",
+    "portfolio": "",
+    "adresse": "Sakiet eddaier, Sfax",
+    "experiences_professionnelles": [
+      {
+        "type": "Stage de perfectionnement",
+        "societe": "Yassino Dev",
+        "date_debut": "Janvier 2023",
+        "date_fin": "Février 2023",
+        "sujet": "Développement d'un site web de blockchain en utilisant PHP"
+      },
+      {
+        "type": "Stage d'Initiation",
+        "societe": "Anavid",
+        "date_debut": "Janvier 2023",
+        "date_fin": "Février 2023",
+        "sujet": "Compréhension des notions de base de l'intelligence artificielle"
+      }
+    ],
+    "projets": [
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "formation": [
+      {
+        "type": "Licence en technologie de l'informatique",
+        "societe": "ISET Sfax",
+        "date_debut": "2022",
+        "date_fin": "2024",
+        "sujet": "Développement des systèmes d'information"
+      }
+    ],
+    "competences": {
+      "langages": [
+        {
+          "langue": "HTML",
+          "niveau": ""
+        },
+        {
+          "langue": "CSS",
+          "niveau": ""
+        },
+        {
+          "langue": "JavaScript",
+          "niveau": ""
+        },
+        {
+          "langue": "SQL",
+          "niveau": ""
+        },
+        {
+          "langue": "PHP",
+          "niveau": ""
+        },
+        {
+          "langue": "Java",
+          "niveau": ""
+        },
+        {
+          "langue": "Node.js",
+          "niveau": ""
+        },
+        {
+          "langue": "React js",
+          "niveau": ""
+        },
+        {
+          "langue": "Next.js",
+          "niveau": ""
+        },
+        {
+          "langue": "Django",
+          "niveau": ""
+        },
+        {
+          "langue": "Express.js",
+          "niveau": ""
+        },
+        {
+          "langue": "ASP.NET",
+          "niveau": ""
+        },
+        {
+          "langue": "JEE",
+          "niveau": ""
+        },
+        {
+          "langue": "Flutter",
+          "niveau": ""
+        },
+        {
+          "langue": "JavaFX",
+          "niveau": ""
+        }
+      ],
+      "frameworks": [
+        {
+          "nom": "React js",
+          "niveau": ""
+        },
+        {
+          "nom": "Next.js",
+          "niveau": ""
+        },
+        {
+          "nom": "Django",
+          "niveau": ""
+        },
+        {
+          "nom": "Express.js",
+          "niveau": ""
+        },
+        {
+          "nom": "ASP.NET",
+          "niveau": ""
+        },
+        {
+          "nom": "JEE",
+          "niveau": ""
+        }
+      ],
+      "base_de_donnees": [
+        {
+          "nom": "MongoDB",
+          "niveau": ""
+        },
+        {
+          "nom": "MySQL",
+          "niveau": ""
+        },
+        {
+          "nom": "Oracle",
+          "niveau": ""
+        }
+      ],
+      "outils_de_collaboration": [
+        {
+          "nom": "GitHub",
+          "niveau": ""
+        }
+      ]
+    },
+    "langues": [
+      {
+        "langue": "Arabe",
+        "niveau": "maternelle"
+      },
+      {
+        "langue": "Français",
+        "niveau": "intermédiaire"
+      },
+      {
+        "langue": "Anglais",
+        "niveau": "intermédiaire"
+      },
+      {
+        "langue": "Chinois",
+        "niveau": "débutant"
+      }
+    ],
+    "certifications": [],
+    "centres_interet": [
+      "",
+      ""
+    ],
+    "id": "4602bd30-e126-4de7-a2c8-3a119c3a1606",
+    "prediction": "web developer"
+  },
+  {
+    "nom_prenom": "Fatma Baklouti",
+    "email": "fatmabaklouti72@gmail.com",
+    "telephone": "+216 52 346 123",
+    "github": "",
+    "linkedin": "",
+    "portfolio": "",
+    "adresse": "Sakiet eddaier, Sfax",
+    "experiences_professionnelles": [
+      {
+        "type": "Stage de perfectionnement",
+        "societe": "Yassino Dev",
+        "date_debut": "Juillet 2024 - Août 2024",
+        "date_fin": "",
+        "sujet": "Développement d'un site web de blockchain en utilisant PHP"
+      },
+      {
+        "type": "Stage d'Initiation",
+        "societe": "Anavid",
+        "date_debut": "Janvier 2023 - Février 2023",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "projets": [
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "formation": [
+      {
+        "type": "Licence en technologie de l'informatique",
+        "societe": "ISET Sfax",
+        "date_debut": "2022",
+        "date_fin": "2024",
+        "sujet": "Développement des systèmes d'information"
+      }
+    ],
+    "competences": {
+      "langages": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "SQL",
+        "PHP",
+        "Java",
+        "Node.js"
+      ],
+      "frameworks": [
+        "React js",
+        "Next.js",
+        "Django",
+        "Express.js",
+        "ASP.NET",
+        "JEE",
+        "Flutter",
+        "JavaFX"
+      ],
+      "base de données": [
+        "MongoDB",
+        "MySQL",
+        "Oracle"
+      ],
+      "outils de collaboration": [
+        "GitHub"
+      ]
+    },
+    "langues": [
+      {
+        "langue": "Arabe",
+        "niveau": "maternelle"
+      },
+      {
+        "langue": "Français",
+        "niveau": "intermédiaire"
+      },
+      {
+        "langue": "Anglais",
+        "niveau": "intermédiaire"
+      },
+      {
+        "langue": "Chinois",
+        "niveau": "débutant"
+      }
+    ],
+    "certifications": [],
+    "centres_interet": [
+      "Développement web",
+      "Intelligence artificielle",
+      "Logistique",
+      "Gestion d'événements"
+    ],
+    "id": "11e16423-33a6-4184-a25a-c2d955a10add",
+    "prediction": "web developer"
+  },
+  {
+    "nom_prenom": "Fatma Baklouti",
+    "email": "fatmabaklouti72@gmail.com",
+    "telephone": "+216 52 346 123",
+    "github": "",
+    "linkedin": "",
+    "portfolio": "",
+    "adresse": "Sakiet eddaier,Sfax",
+    "experiences_professionnelles": [
+      {
+        "type": "Stage de perfectionnement",
+        "societe": "Yassino Dev",
+        "date_debut": "Janvier 2023",
+        "date_fin": "Février 2023",
+        "sujet": "Développement d un site web de blockchain en utilisant PHP"
+      },
+      {
+        "type": "Stage d Initiation",
+        "societe": "Anavid",
+        "date_debut": "Janvier 2023",
+        "date_fin": "Février 2023",
+        "sujet": "Compréhension des notions de base de l intelligence artificielle"
+      }
+    ],
+    "projets": [
+      {
+        "type": "",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "formation": [
+      {
+        "type": "Licence en technologie de l informatique",
+        "societe": "ISET Sfax",
+        "date_debut": "2022",
+        "date_fin": "2024",
+        "sujet": "Spécialité Développement des Systèmes d Information"
+      }
+    ],
+    "competences": {
+      "langues": [
+        {
+          "langue": "Arabe",
+          "niveau": "maternelle"
+        },
+        {
+          "langue": "Français",
+          "niveau": "intermédiaire"
+        },
+        {
+          "langue": "Anglais",
+          "niveau": "intermédiaire"
+        },
+        {
+          "langue": "Chinois",
+          "niveau": "débutant"
+        }
+      ],
+      "base de données": [
+        {
+          "nom_base_de_donnees": "Oracle"
+        },
+        "SQL"
+      ],
+      "frameworks et langages de programmation": [
+        {
+          "nom_framework": "JavaFX"
+        },
+        {
+          "nom_language": "Node.js"
+        }
+      ],
+      "outils de collaboration": [
+        {
+          "nom_outil": "GitHub"
+        }
+      ]
+    },
+    "centres_interet": [],
+    "id": "959c1c1b-cc9f-4839-b9c7-c4d7d3880936",
+    "prediction": "web developer"
+  },
+  {
+    "nom_prenom": "Fatma Baklouti",
+    "email": "fatmabaklouti72@gmail.com",
+    "telephone": "+216 52 346 123",
+    "github": "",
+    "linkedin": "",
+    "portfolio": "",
+    "adresse": "Sakiet eddaier,Sfax",
+    "experiences_professionnelles": [
+      {
+        "type": "Stage de perfectionnement",
+        "societe": "Yassino Dev",
+        "date_debut": "Juillet 2024 - Août 2024",
+        "date_fin": "",
+        "sujet": "Développement d un site web de blockchain en utilisant PHP"
+      }
+    ],
+    "projets": [
+      {
+        "type": "Stage de perfectionnement",
+        "societe": "Yassino Dev",
+        "date_debut": "Juillet 2024 - Août 2024",
+        "date_fin": "",
+        "sujet": "Développement d un site web de blockchain en utilisant PHP"
+      }
+    ],
+    "formation": [
+      {
+        "type": "Étudiante en 3âme année de Développement des Systèmes d Information à l ISET Sfax",
+        "societe": "",
+        "date_debut": "2022 - Présent",
+        "date_fin": "",
+        "sujet": "L licence en technologie de l informatique specialité Développement des Systèmes d Information"
+      }
+    ],
+    "competences": {
+      "langages": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "SQL",
+        "PHP",
+        "Java",
+        "Node.js"
+      ],
+      "frameworks": [
+        "React js",
+        "Next.js",
+        "Django",
+        "Express.js",
+        "ASP.NET",
+        "JEE",
+        "Flutter",
+        "JavaFX"
+      ],
+      "base_de_donnees": [
+        "MongoDB",
+        "MySQL",
+        "Oracle"
+      ],
+      "outils_de_collaboration": [
+        "GitHub"
+      ]
+    },
+    "langues": [
+      {
+        "langue": "Arabe",
+        "niveau": "Langue maternelle"
+      },
+      {
+        "langue": "Français",
+        "niveau": "Niveau intermédiaire"
+      },
+      {
+        "langue": "Anglais",
+        "niveau": "Niveau intermédiaire"
+      },
+      {
+        "langue": "Chinois",
+        "niveau": "Niveau débutant"
+      }
+    ],
+    "certifications": [],
+    "centres_interet": [],
+    "id": "ac63edaf-bed5-4a9c-9206-40d42f4432bd",
+    "prediction": "web developer"
+  },
+  {
+    "nom_prenom": "CHAKER BELTAIEF",
+    "email": "chakerbeltaief1@gmail.com",
+    "telephone": "",
+    "github": "https://github.com/chakerbeltaief1",
+    "linkedin": "https://www.linkedin.com/in/chaker-b",
+    "portfolio": "portafolio.com",
+    "adresse": "R u e d e l   a é r o p o r t K M 7 S f a x, Tunisie",
+    "experiences_professionnelles": [
+      {
+        "type": "Stage de fin d étude",
+        "societe": "Université du Logique International - Sfax",
+        "date_debut": "2/2025",
+        "date_fin": "7/2025",
+        "sujet": "Conception et développement d un modèle d intelligence artificielle pour l extraction automatisée des données à partir des CV"
+      },
+      {
+        "type": "Stage de fin d étude",
+        "societe": "AMI Les Ateliers Mécaniques Industriels",
+        "date_debut": "2/2022",
+        "date_fin": "4/2022",
+        "sujet": "Etude et Conception d un dispositif pour rectifier les diamètres extérieurs des poinçons sur affuteuse"
+      },
+      {
+        "type": "Stage étudiant",
+        "societe": "SOCIÉTÉ DE PRODUCTION D ARTICLES EN LAITON - SOPAL",
+        "date_debut": "7/2021",
+        "date_fin": "8/2021",
+        "sujet": "Conception des produit industriels"
+      },
+      {
+        "type": "Guichetier en bureau de poste",
+        "societe": "BUREAU DE POSTE , EL HAJEB - Sfax",
+        "date_debut": "7/2020",
+        "date_fin": "8/2020",
+        "sujet": ""
+      }
+    ],
+    "projets": [
+      {
+        "type": "Projet de deep learning pour la détection du cancer du poumon à partir d images IRM",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": "Classifier automatiquement les images IRM en fonction de la présence ou de l absence de cancer du poumon"
+      },
+      {
+        "type": "Projet Kaggle",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": "Prévision d un Crédit Logement"
+      },
+      {
+        "type": "Projet portefeuille d analyste de données",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": "Analyse complète des données Covid-19, incluant l exploration, le nettoyage et la visualisation des données"
+      },
+      {
+        "type": "Projet capstone d analyste de données IBM",
+        "societe": "IBM",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": "Démonstration de maîtrise des compétences en analyse de données acquises durant la formation"
+      }
+    ],
+    "formation": [
+      {
+        "type": "Master Professionnel en Data Scientist",
+        "societe": "Ecole Polytechnique Internationale de Tunis",
+        "date_debut": "2023 - 2025",
+        "date_fin": "",
+        "sujet": ""
+      },
+      {
+        "type": "Master Recherche en Génie Industriel",
+        "societe": "Institut Supérieur De Gestion Industrielle De Sfax",
+        "date_debut": "2022 - 2023",
+        "date_fin": "",
+        "sujet": ""
+      },
+      {
+        "type": "Diplôme de Baccalauréat en Science Technique",
+        "societe": "Lycée Cité Habib Sfax",
+        "date_debut": "2016 - 2019",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "competences": {
+      "Technologies": [
+        "Python",
+        "SQL",
+        "NOSQL",
+        "P O W E R B I ",
+        "HTML",
+        "CSS"
+      ],
+      "Machine Learning": [
+        "Machine Learning",
+        "NLP",
+        "LLM",
+        "Deep Learning"
+      ],
+      "Frameworks de Deep Learning": [
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "Évaluation du Modèle": [
+        "Scikit-learn"
+      ],
+      "Accélération du Calcul": [
+        "GPU",
+        "TPU"
+      ]
+    },
+    "langues": [
+      {
+        "langue": "English",
+        "niveau": ""
+      },
+      {
+        "langue": "Français",
+        "niveau": ""
+      },
+      {
+        "langue": "Arabe",
+        "niveau": ""
+      }
+    ],
+    "certifications": [],
+    "centres_interet": [],
+    "id": "3f08c632-02d8-4976-bbd5-fc8f1674eec7",
+    "prediction": "data engineer"
+  },
+  {
+    "nom_prenom": "Samar Mhiri",
+    "email": "samar.elmhiri@gmail.com",
+    "telephone": "+21655184075",
+    "github": "",
+    "linkedin": "",
+    "portfolio": "",
+    "adresse": "",
+    "experiences_professionnelles": [
+      {
+        "type": "Stage de Fin d étude : Mémoire Banque Nationale Agricole",
+        "societe": "Banque Nationale Agricole",
+        "date_debut": "2023",
+        "date_fin": "",
+        "sujet": "_ Banque Nationale Agricole"
+      },
+      {
+        "type": "Responsable exploitation Decathlon Tunisie",
+        "societe": "Decathlon Tunisie",
+        "date_debut": "2023-01-01",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "projets": [
+      {
+        "type": "Cryptocurrency Investment course : invest for profit",
+        "societe": "",
+        "date_debut": "",
+        "date_fin": "",
+        "sujet": "Product Management Fundamentals"
+      }
+    ],
+    "formation": [
+      {
+        "type": "Master professionnel en finance",
+        "societe": "",
+        "date_debut": "2021",
+        "date_fin": "",
+        "sujet": ""
+      },
+      {
+        "type": "Stage _Ministére du Commerce et de developpement des éxportations",
+        "societe": "Ministére du Commerce et de développement des éxportations",
+        "date_debut": "2021",
+        "date_fin": "",
+        "sujet": ""
+      }
+    ],
+    "competences": {
+      "Hard skills": [
+        "Ms Office",
+        "IBM SPSS Statistics",
+        "R Studio",
+        "Sage"
+      ],
+      "Soft skills": [
+        "Communication motivante",
+        "Très bon sens du relationnel",
+        "Un très bon sens organisationnel"
+      ]
+    },
+    "langues": [
+      {
+        "langue": "",
+        "niveau": ""
+      }
+    ],
+    "certifications": [],
+    "centres_interet": [],
+    "id": "e7c26326-9f1d-4683-a539-3031bb2e6b33",
+    "prediction": "consultant"
+  }
+]

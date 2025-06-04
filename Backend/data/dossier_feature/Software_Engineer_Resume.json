@@ -1,0 +1,117 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Sourabh Bajaj",
+    "email": "mail@website.com",
+    "telephone": "+1-123-456-7890",
+    "adresse": "",
+    "github": "http://www.sourabhbajaj.com",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "profil": "",
+  "experiences_professionnelles": [
+    {
+      "type": "Software Engineer",
+      "poste": "Software Engineer",
+      "entreprise": "Google",
+      "date_debut": "Oct 2016",
+      "date_fin": "Present",
+      "description": "Tensorflow: TensorFlow is an open source software library for numerical computation using data flow graphs; primarily used for training deep learning models. Apache Beam: Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines, as well as a set of language-specific SDKs for constructing pipelines and runners.",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Senior Software Engineer",
+      "poste": "Senior Software Engineer",
+      "entreprise": "Coursera",
+      "date_debut": "Jan 2014",
+      "date_fin": "Oct 2016",
+      "description": "Notifications: Service for sending email, push and in-app notifications. Involved in features such as delivery time optimization, tracking, queuing and A/B testing. Built an internal app to run batch campaigns for marketing etc.",
+      "competences_utilisees": []
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "Master of Science",
+      "diplome": "Computer Science",
+      "etablissement": "Georgia Institute of Technology",
+      "specialite": "",
+      "date_debut": "Aug. 2012",
+      "date_fin": "Dec. 2013",
+      "description": ""
+    },
+    {
+      "niveau": "Bachelor of Engineering",
+      "diplome": "Electrical and Electronics",
+      "etablissement": "Birla Institute of Technology and Science Pilani",
+      "specialite": "",
+      "date_debut": "Aug. 2008",
+      "date_fin": "July. 2012",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "QuantSoftware Toolkit",
+      "description": "Open source python library for financial data analysis and machine learning for finance.",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Github Visualization",
+      "description": "Data Visualization of Git Log data using D3 to analyze project trends over time.",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "Scala",
+      "Python",
+      "Javascript",
+      "C++",
+      "SQL",
+      "Java"
+    ],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [],
+    "bases_donnees": [],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "",
+      "niveau": ""
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "Lucena Research",
+      "role": "Data Scientist",
+      "date_debut": "Summer 2012 and 2013",
+      "date_fin": "",
+      "description": "Portfolio Management: Created models for portfolio hedging, portfolio optimization and price forecasting. Also creating a strategy backtesting engine used for simulating and backtesting strategies."
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "Software_Engineer_Resume.pdf",
+    "taille_texte": 3370,
+    "date_traitement": "2025-06-04 14:58:36",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

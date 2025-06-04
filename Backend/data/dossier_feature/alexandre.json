@@ -1,0 +1,138 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Alexandre Schustermann",
+    "email": "alexandreschustermannpro@gmail.com",
+    "telephone": "06 59 30 75 37",
+    "adresse": "Toulouse",
+    "github": "",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "profil": "Ingénieur d affaires, dynamique et persévérant, je recherche une alternance pour mettre à profit mes compétences en négociation, gestion de projet et développement commercial dans le secteur IT.",
+  "experiences_professionnelles": [
+    {
+      "type": "Conseiller en investissement immobilier",
+      "poste": "Conseiller en investissement immobilier",
+      "entreprise": "C2i Sud-Ouest Toulouse",
+      "date_debut": "février 2021",
+      "date_fin": "juillet 2024",
+      "description": "Conseil et accompagnement de clients dans leurs investissements immobiliers, analyse de marché pour identifier les opportunités d investissement, négociation des conditions d achat et de vente, mise en place de stratégies de valorisation des biens immobiliers",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Equipier Polyvalent",
+      "poste": "Equipier Polyvalent",
+      "entreprise": "Pomme de Pain Toulouse",
+      "date_debut": "novembre 2019",
+      "date_fin": "février 2021",
+      "description": "",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Equipier Polyvalent",
+      "poste": "Equipier Polyvalent",
+      "entreprise": "Firmin Toulouse",
+      "date_debut": "août 2019",
+      "date_fin": "novembre 2019",
+      "description": "",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Conseiller Financier",
+      "poste": "Conseiller Financier",
+      "entreprise": "ISTEF Toulouse",
+      "date_debut": "septembre 2023",
+      "date_fin": "juillet 2024",
+      "description": "Commercialisation de produits bancaires et d assurance aux particuliers et aux entreprises, fiscalité, comptabilité d entreprise, formation au cadre juridique bancaire et assurantiel",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Commercialiser des produits immobiliers",
+      "poste": "Commercialiser des produits immobiliers",
+      "entreprise": "Ecole Vidal Toulouse",
+      "date_debut": "septembre 2021",
+      "date_fin": "juillet 2023",
+      "description": "Gestion d un parc locatif immobilier, fiscalité de l immobilier, formation au cadre juridique de l immobilier",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Licence Informatique",
+      "poste": "",
+      "entreprise": "UT3 Paul Sabatier Toulouse",
+      "date_debut": "septembre 2017",
+      "date_fin": "juillet 2018",
+      "description": "",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Licence Economie et Gestion",
+      "poste": "",
+      "entreprise": "UT1 Capitole Toulouse",
+      "date_debut": "septembre 2018",
+      "date_fin": "juillet 2019",
+      "description": "",
+      "competences_utilisees": []
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "",
+      "diplome": "",
+      "etablissement": "",
+      "specialite": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "",
+      "description": "",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [],
+    "bases_donnees": [],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "",
+      "niveau": ""
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "alexandre.pdf",
+    "taille_texte": 2089,
+    "date_traitement": "2025-06-04 13:51:51",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

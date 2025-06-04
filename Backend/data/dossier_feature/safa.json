@@ -1,0 +1,213 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Safa Mejri Soliman",
+    "email": "mejri.safa@esprit.tn",
+    "telephone": "",
+    "adresse": "Tunis",
+    "github": "github.com/SafaMejrii",
+    "linkedin": "linkedin.com/in/safa-mejri-281979197",
+    "portfolio": ""
+  },
+  "profil": "Passionnée par la Data Science, le développement web et les nouvelles technologies, je suis polyvalente, motivée et déterminée à contribuer à des projets innovants alliant analyse de données et solutions web.",
+  "experiences_professionnelles": [
+    {
+      "type": "",
+      "poste": "Stage de fin d'études",
+      "entreprise": "Délice Danone",
+      "date_debut": "mars 2024",
+      "date_fin": "septembre 2024",
+      "description": "Développement d'un système de prévision des ventes Technologies: Angular, Django, Jupyter, Anaconda, Power BI",
+      "competences_utilisees": [
+        "Angular",
+        "Django",
+        "Jupyter",
+        "Anaconda",
+        "Power BI"
+      ]
+    },
+    {
+      "type": "",
+      "poste": "Stage d'études",
+      "entreprise": "ESPRIT",
+      "date_debut": "juillet 2023",
+      "date_fin": "septembre 2023",
+      "description": "Développement d'une application web et mobile pour la gestion des règlements Technologies: Angular, Node.js, Flutter",
+      "competences_utilisees": [
+        "Angular",
+        "Node.js",
+        "Flutter"
+      ]
+    },
+    {
+      "type": "",
+      "poste": "Stage de fin d'études",
+      "entreprise": "I3T",
+      "date_debut": "juillet 2019",
+      "date_fin": "août 2019",
+      "description": "Conception et développement d'une application web et mobile pour la gestion des règlements Technologies: Angular, Node.js, Flutter",
+      "competences_utilisees": [
+        "Angular",
+        "Node.js",
+        "Flutter"
+      ]
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "",
+      "diplome": "Diplôme en ingénierie informatique",
+      "etablissement": "ESPRIT",
+      "specialite": "Technologies du Web et de l'Internet (TWIN)",
+      "date_debut": "2022",
+      "date_fin": "2024",
+      "description": ""
+    },
+    {
+      "niveau": "",
+      "diplome": "Mastère en recherche",
+      "etablissement": "Ecole Supérieure de l'Économie Numérique (ESEN)",
+      "specialite": "Web Intelligence",
+      "date_debut": "2021",
+      "date_fin": "2022",
+      "description": ""
+    },
+    {
+      "niveau": "",
+      "diplome": "Licence en informatique de gestion",
+      "etablissement": "ESEN",
+      "specialite": "Web Intelligence",
+      "date_debut": "2018",
+      "date_fin": "2021",
+      "description": ""
+    },
+    {
+      "niveau": "",
+      "diplome": "Baccalauréat en sciences informatiques",
+      "etablissement": "Lycée Route de la Plage Soliman",
+      "specialite": "",
+      "date_debut": "2018",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "Projet DevOps",
+      "description": "",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "octobre 2023",
+      "date_fin": "novembre 2023"
+    },
+    {
+      "titre": "Développement d'une application web",
+      "description": "",
+      "technologies": [
+        "Docker",
+        "Grafana",
+        "Prometheus"
+      ],
+      "responsabilites": [],
+      "date_debut": "septembre 2023",
+      "date_fin": ""
+    },
+    {
+      "titre": "Projet Full Stack JS",
+      "description": "",
+      "technologies": [
+        "MongoDB",
+        "Express",
+        "React",
+        "Node.js"
+      ],
+      "responsabilites": [],
+      "date_debut": "février 2023",
+      "date_fin": "avril 2023"
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "Python",
+      "Angular",
+      "Django",
+      "Jupyter",
+      "Anaconda",
+      "Power BI"
+    ],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [
+      "Git",
+      "Jenkins",
+      "SonarQube",
+      "JaCoCo",
+      "JUnit",
+      "Mockito",
+      "Nexus",
+      "Docker",
+      "Docker Compose"
+    ],
+    "bases_donnees": [
+      "MongoDB",
+      "MySQL",
+      "Oracle",
+      "SQL Server",
+      "PL/SQL",
+      "DBMS"
+    ],
+    "methodologies": [],
+    "cloud_devops": [
+      "Git",
+      "Jenkins",
+      "SonarQube",
+      "JaCoCo",
+      "JUnit",
+      "Mockito",
+      "Nexus",
+      "Docker",
+      "Docker Compose"
+    ],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "Arabe",
+      "niveau": "langue maternelle"
+    },
+    {
+      "langue": "Français",
+      "niveau": "B2"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "B1"
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "Deep Learning.AI Coursera",
+      "organisme": "Coursera",
+      "date": "avril 2022"
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [
+    "Cuisine",
+    "Sport",
+    "Bien-être et santé"
+  ],
+  "metadata": {
+    "fichier_source": "safa.pdf",
+    "taille_texte": 3356,
+    "date_traitement": "2025-06-04 14:55:52",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Abdelmelek Medhioub",
+    "email": "abdelmelekmedhioub@gmail.com",
+    "telephone": "+216 54 121 601",
+    "adresse": "",
+    "github": "https://www.linkedin.com/in/abdelmelek-medhioub/",
+    "linkedin": "Abdelmelek Medhioub",
+    "portfolio": ""
+  },
+  "profil": "Ingénieur en informatique avec une passion pour la création d applications innovantes et conviviales.",
+  "experiences_professionnelles": [
+    {
+      "type": "Développeur Mobile",
+      "poste": "Développeur Mobile",
+      "entreprise": "HELLODATI",
+      "date_debut": "07/2023",
+      "date_fin": "01/2024",
+      "description": "",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Stage PFE",
+      "poste": "Concevoir le schéma GraphQL en collaboration avec l équipe backend pour les besoins de l appli mobile.",
+      "entreprise": "I Connect Services",
+      "date_debut": "03/2021",
+      "date_fin": "09/2021",
+      "description": "",
+      "competences_utilisees": []
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "Diplôme national d Ingénierie en informatique",
+      "diplome": "Ecole Supérieure Privée d Ingénierie et de Technologies Esprit",
+      "etablissement": "",
+      "specialite": "",
+      "date_debut": "2018",
+      "date_fin": "2021",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "Développer une application mobile de médias sociaux",
+      "description": "",
+      "technologies": [
+        "Flutter",
+        "spring-boot",
+        "mongoDb"
+      ],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "Flutter",
+      "Kotlin",
+      "Ionic",
+      "Java",
+      "JavaScript",
+      "React",
+      "Angular",
+      "Dart",
+      "React Native"
+    ],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [
+      "Sonar Nexus Git Jenkins Junit Docker Jira Bitbucket"
+    ],
+    "bases_donnees": [
+      "ORACLE",
+      "MongoDB",
+      "MYSQL",
+      "Firebase"
+    ],
+    "methodologies": [
+      "Méthodologies agiles, Scrum"
+    ],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "Français",
+      "niveau": "Compétence professionnelle"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "Compétence professionnelle"
+    },
+    {
+      "langue": "Arabe",
+      "niveau": "Langue maternelle"
+    }
+  ],
+  "vie_associative": [],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "ABDEMLEK.pdf",
+    "taille_texte": 2047,
+    "date_traitement": "2025-06-04 13:36:35",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

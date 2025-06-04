@@ -1,0 +1,164 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "JAN BELLON",
+    "email": "jan@nobell.fr",
+    "telephone": "+33 1 85 09 83 40",
+    "adresse": "Meudon, Hauts-de-Seine",
+    "github": "linkedin.com/in/janbellon",
+    "linkedin": "janbellon.com",
+    "portfolio": "janbellon.com"
+  },
+  "profil": "Apprenti administrateur systèmes et réseaux, spécialisé en virtualisation, supervision et automatisation.",
+  "experiences_professionnelles": [
+    {
+      "type": "",
+      "poste": "Apprenti Administrateur Systèmes et Réseaux",
+      "entreprise": "ALDEBARAN, Paris",
+      "date_debut": "septembre 2023",
+      "date_fin": "août 2025",
+      "description": "Déploiement et administration de serveurs Linux (Proxmox, Nginx) et Windows Server (Active Directory, DNS, DHCP). Supervision de l infrastructure réseau et serveurs via Grafana et mise en place de procédures de monitoring proactif. Optimisation du réseau sans fil ayant permis d atteindre une connectivité WiFi sans incidents sur la durée.",
+      "competences_utilisees": [
+        "virtualisation",
+        "supervision",
+        "automatisation",
+        "administration système",
+        "cybersécurité"
+      ]
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "",
+      "diplome": "BUT Réseaux et Télécoms IUT de Vélizy, UVSQ",
+      "etablissement": "IUT de Vélizy, UVSQ",
+      "specialite": "réseaux IP, administration système, cybersécurité, virtualisation, gestion de projet",
+      "date_debut": "septembre 2022",
+      "date_fin": "août 2025",
+      "description": "Modules techniques : réseaux IP, administration système, cybersécurité, virtualisation, gestion de projet. Langages scripts : Python, PHP, SQL, PowerShell."
+    }
+  ],
+  "projets": [
+    {
+      "titre": "Wirenet",
+      "description": "Conception d un système d interconnexion de réseaux domestiques via VPN avec WireGuard, combiné à une infrastructure de routage sécurisée sous OpnSense.",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Webphone",
+      "description": "Déploiement d un réseau de téléphonie sur IP basé sur Asterisk, avec interconnexion de serveurs via le protocole IAX, incluant la gestion des extensions et de la signalisation.",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Notehub",
+      "description": "Développement d une application web PHP/JavaScript pour la visualisation des notes et moyennes des étudiants de l IUT, avec gestion des utilisateurs et sessions.",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Wormhole",
+      "description": "Mise en place d un accès distant sécurisé à des réseaux locaux via tunneling SSH et reverse proxy Nginx, avec une approche légère de type jump host.",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Homelab",
+      "description": "Construction d une infrastructure réseau complète avec Active Directory, routage VLAN, supervision (Grafana), vidéosurveillance (AXIS), hébergement virtuel sous Proxmox, et services centralisés.",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Nobell Cloud",
+      "description": "Création d un cloud personnel auto-hébergé intégrant Nextcloud, PeerTube, Vaultwarden et d autres services, avec gestion de la sécurité, des accès et du chiffrement.",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "Python",
+      "PHP",
+      "SQL",
+      "PowerShell"
+    ],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [
+      "Linux (Debian, Ubuntu)",
+      "Windows Server",
+      "Active Directory",
+      "Proxmox VE",
+      "VMWare ESXI",
+      "VCenter"
+    ],
+    "bases_donnees": [],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": [
+      "virtualisation",
+      "supervision",
+      "automatisation",
+      "administration système",
+      "cybersécurité",
+      "routage",
+      "vidéosurveillance"
+    ]
+  },
+  "langues": [
+    {
+      "langue": "Anglais (B2)",
+      "niveau": ""
+    },
+    {
+      "langue": "Polonais (maternel)",
+      "niveau": ""
+    },
+    {
+      "langue": "Allemand (B1)",
+      "niveau": ""
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [
+    {
+      "design_graphique": true,
+      "sciences_mathematiques": true,
+      "creation_audiovisuelle": true
+    }
+  ],
+  "metadata": {
+    "fichier_source": "jan.pdf",
+    "taille_texte": 3739,
+    "date_traitement": "2025-06-04 14:23:28",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Fedi SOLTANI",
+    "email": "di68@gmail.com",
+    "telephone": "+216 53 064 275",
+    "adresse": "Tunis, Tunisi",
+    "github": "link din.com/in/f-di-soltani1",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "profil": "Dév lopp ur Fullstack .NET",
+  "experiences_professionnelles": [
+    {
+      "type": "Développeur Full Stack .NET Core Access international (Consultant externe - Ministère des Transports du Québec)",
+      "poste": "",
+      "entreprise": "Access international",
+      "date_debut": "août 2024",
+      "date_fin": "",
+      "description": "Conception, développement et optimisation d solutions web pour clients publics et privés.",
+      "competences_utilisees": []
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "Diplômé",
+      "diplome": "ESPRI",
+      "etablissement": "ESPRIT Tunis",
+      "specialite": "",
+      "date_debut": "2019-2022",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "APVHN Application d G stion d s P rmis pour Convois Hors Norm s",
+      "description": "Développement de la conception et du développement d une solution web pour la gestion des permis de transport hors normaux.",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Application d G stion d un C ntr d Pilat s",
+      "description": "Développement de fonctionnalités pour la gestion des cours, inscriptions et abonnements.",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      ".NET Core",
+      "C#"
+    ],
+    "frameworks_bibliotheques": [
+      "Entity Framework",
+      "Razor Pages"
+    ],
+    "outils_developpement": [],
+    "bases_donnees": [
+      "SQL Server",
+      "PostgreSQL"
+    ],
+    "methodologies": [],
+    "cloud_devops": [
+      ".NET Standard",
+      "WCF",
+      "SOAP"
+    ],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "Français",
+      "niveau": "professionnel"
+    }
+  ],
+  "vie_associative": [],
+  "certifications": [],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "ali.pdf",
+    "taille_texte": 3397,
+    "date_traitement": "2025-06-04 13:53:36",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

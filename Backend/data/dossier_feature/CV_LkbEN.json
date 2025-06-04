@@ -1,0 +1,129 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Mohamed Lakdhar Bellakdar",
+    "email": "mohamedbellakdar@gmail.com",
+    "telephone": "+216 29519207",
+    "adresse": "Hammam-lif, Ben Arous",
+    "github": "",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "profil": "Élève ingénieur en 3ème année Génie Industriel, à la recherche d un stage PFE.",
+  "experiences_professionnelles": [
+    {
+      "type": "Stage",
+      "poste": "Technicien Safran",
+      "entreprise": "Safran",
+      "date_debut": "Juin 2024",
+      "date_fin": "Août 2024",
+      "description": "Amélioration et optimisation dans l atelier actionneur - Chronométrage de temps d exécution des produits de la ligne en U - Equilibrage des postes de la ligne en U - Proposition d un nouveau layout de la lign e - Conception des nouveaux postes de trav ail - Etude de la non-conformité des produits et proposition d un plan d action",
+      "competences_utilisees": []
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "Cycle préparatoire en Physiques - Chimie",
+      "diplome": "",
+      "etablissement": "Institut Préparatoire aux Études d Ingénieurs el manar (IPEIEM)",
+      "specialite": "",
+      "date_debut": "Septembre 2020",
+      "date_fin": "Juin 2022",
+      "description": ""
+    },
+    {
+      "niveau": "Cycle ingénieur en génie industriel",
+      "diplome": "Baccalauréat sciences expérimentales",
+      "etablissement": "Lycée Pilote kebili, Tunisie 2020",
+      "specialite": "",
+      "date_debut": "Septembre 2022",
+      "date_fin": "Avril 2024",
+      "description": ""
+    },
+    {
+      "niveau": "Cycle préparatoire en Physiques - Chimie",
+      "diplome": "",
+      "etablissement": "Institut Préparatoire aux Études d Ingénieurs el manar (IPEIEM)",
+      "specialite": "",
+      "date_debut": "Septembre 2020",
+      "date_fin": "Juin 2022",
+      "description": ""
+    },
+    {
+      "niveau": "Cycle ingénieur en génie industriel",
+      "diplome": "École Nationale d Ingénieurs de Bizerte (ENIB)",
+      "etablissement": "Tunisie Septembre 2022 - Présent",
+      "specialite": "",
+      "date_debut": "Septembre 2022",
+      "date_fin": "Avril 2024",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "Projet Métier Eleonetech, Bizerte",
+      "description": "",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "Cycle ingénieur en génie industriel",
+      "date_fin": ""
+    },
+    {
+      "titre": "Projet d étude bibliographique ENIB, Bizerte",
+      "description": "",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "Lycée Pilote kebili, Tunisie 2020",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "Python"
+    ],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [],
+    "bases_donnees": [],
+    "methodologies": [
+      "Lean Manufacturing",
+      "6 Sigma",
+      "Kanban",
+      "VSM",
+      "5S",
+      "SMED"
+    ],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "Arabe",
+      "niveau": ""
+    },
+    {
+      "langue": "Français",
+      "niveau": ""
+    },
+    {
+      "langue": "Anglais",
+      "niveau": ""
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "Club ENIB Robotics team",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "CV_LkbEN.pdf",
+    "taille_texte": 2513,
+    "date_traitement": "2025-06-04 14:02:26",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

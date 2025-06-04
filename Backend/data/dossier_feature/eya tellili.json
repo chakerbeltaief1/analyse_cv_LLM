@@ -1,0 +1,134 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Eya Tellili",
+    "email": "eya.tellili@etudiant-enit.utm.tn",
+    "telephone": "",
+    "adresse": "",
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/eya-tellili-b5a01a289/",
+    "portfolio": ""
+  },
+  "profil": "Dynamique, rigoureuse et déterminée, je m'investis avec initiative et sens des responsabilités. Forte d'une expérience associative et de compétences en organisation et en travail d'équipe, je suis engagée et prête à contribuer efficacement aux objectifs de l'entreprise.",
+  "experiences_professionnelles": [
+    {
+      "type": "",
+      "poste": "Stagiaire ouvrier INOPLAST Tunisie Manouba",
+      "entreprise": "INOPLAST Tunisie Manouba",
+      "date_debut": "Juin Juil. 2024",
+      "date_fin": "",
+      "description": "Familiarisation avec les procédés d'injection et d'extrusion plastique dans un environnement industriel. Suivi du processus de production en atelier et observation des machines en fonctionnement.",
+      "competences_utilisees": []
+    },
+    {
+      "type": "",
+      "poste": "Stagiaire projet Treetronix Tunis",
+      "entreprise": "Treetronix Tunis",
+      "date_debut": "Juil. Août 2024",
+      "date_fin": "",
+      "description": "Conception mécanique d'un boîtier pour capteur environnemental (SolidWorks). Intégration d'un système de fermeture par goujon spécial a ressort permettant de garantir une fermeture fiable et une sécurité contre les ouvertures accidentelles.",
+      "competences_utilisees": []
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "2e année",
+      "diplome": "Diplôme d'ingénieur en Génie Mécanique",
+      "etablissement": "Ecole Nationale d'Ingénieurs de Tunis (ENIT)",
+      "specialite": "",
+      "date_debut": "Sept 2023",
+      "date_fin": "",
+      "description": ""
+    },
+    {
+      "niveau": "Cycle préparatoire Physique-Chimie",
+      "diplome": "",
+      "etablissement": "Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis",
+      "specialite": "",
+      "date_debut": "Sept 2021",
+      "date_fin": "",
+      "description": ""
+    },
+    {
+      "niveau": "Baccalauréat en Mathématiques",
+      "diplome": "",
+      "etablissement": "Lycée Bardo",
+      "specialite": "",
+      "date_debut": "Juin 2021",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "Projet de fin d'année 2",
+      "description": "Etude comparative de stratification d'un bateau de plaisance entre la technique d'infusion et la technique par contact.",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Projet de simulation numérique du procédé de mise en forme Pliage en U d'une tôle mince en aluminium A2024 (ABAQUS / CAE)",
+      "description": "Elaboration d'un modèle de l'opération de pliage en respectant les paramètres géométriques.",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [],
+    "bases_donnees": [],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "Arabe",
+      "niveau": ""
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "B2 (intermédiaire avancé)"
+    },
+    {
+      "langue": "Français",
+      "niveau": "B2 (intermédiaire avancé)"
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "Délégation Génie Mécanique ENIT",
+      "role": "",
+      "date_debut": "Sept 2024 - Présent",
+      "date_fin": "",
+      "description": ""
+    },
+    {
+      "organisation": "Club de département Génie Mécanique de l'ENIT",
+      "role": "Présidente",
+      "date_debut": "Mai 2024 - Présent",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "eya tellili.pdf",
+    "taille_texte": 4706,
+    "date_traitement": "2025-06-04 14:05:46",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

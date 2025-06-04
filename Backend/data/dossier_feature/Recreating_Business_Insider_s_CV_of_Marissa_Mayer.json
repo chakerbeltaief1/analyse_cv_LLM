@@ -1,0 +1,128 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "MARISSA MAYER",
+    "email": "mmayer@yahoo-inc.com",
+    "telephone": "",
+    "adresse": "Address, Street, 00000 County",
+    "github": "",
+    "linkedin": "marissamayer",
+    "portfolio": "marissamayr.tumblr.com"
+  },
+  "profil": "Business Woman Proud Geek",
+  "experiences_professionnelles": [
+    {
+      "type": "President CEO",
+      "poste": "Yahoo",
+      "entreprise": "Yahoo",
+      "date_debut": "July 2012",
+      "date_fin": "",
+      "description": "Led the 5 billion acquisition of the company with Verizon, acquired Tumblr for 1.1 billion and moved the company s blog there, built Yahoo s mobile, video and social businesses from nothing in 2011 to 1.6 billion in GAAP revenue in 2015",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Vice President of Location Services",
+      "poste": "Google",
+      "entreprise": "Google",
+      "date_debut": "Oct 2010",
+      "date_fin": "July 2012",
+      "description": "Position Google Maps as the world leader in mobile apps and navigation, oversaw 1000+ engineers and product managers working on Google Maps, Google Places and Google Earth",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Vice President of Search Products UX",
+      "poste": "Google",
+      "entreprise": "Google",
+      "date_debut": "2005",
+      "date_fin": "2010",
+      "description": "",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Product Manager UI Lead",
+      "poste": "Google",
+      "entreprise": "Google",
+      "date_debut": "Oct 2001",
+      "date_fin": "July 2005",
+      "description": "Appointed by the founder Larry Page in 2001 to lead the Product Man- agement and User Interaction teams, optimized Google s homepage and A/B tested every minor detail to increase usability",
+      "competences_utilisees": []
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "",
+      "diplome": "M.S. in Computer Science",
+      "etablissement": "Stanford University",
+      "specialite": "",
+      "date_debut": "Sept 1997",
+      "date_fin": "June 1999",
+      "description": ""
+    },
+    {
+      "niveau": "",
+      "diplome": "B.S. in Symbolic Systems",
+      "etablissement": "Stanford University",
+      "specialite": "",
+      "date_debut": "Sept 1993",
+      "date_fin": "June 1997",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "",
+      "description": "",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [],
+    "bases_donnees": [],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "English",
+      "niveau": "5"
+    },
+    {
+      "langue": "Spanish",
+      "niveau": "4"
+    },
+    {
+      "langue": "German",
+      "niveau": "3"
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "Recreating_Business_Insider_s_CV_of_Marissa_Mayer.pdf",
+    "taille_texte": 3324,
+    "date_traitement": "2025-06-04 14:47:17",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

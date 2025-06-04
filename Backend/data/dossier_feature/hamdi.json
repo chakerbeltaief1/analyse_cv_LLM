@@ -1,0 +1,128 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Hamdi Chakroun",
+    "email": "hamdichakroon@gmail.com",
+    "telephone": "+216 98486092",
+    "adresse": "Rue Citron, Ksar Hellal, Monastir, 5070, Tunisia",
+    "github": "",
+    "linkedin": "www.linkedin.com/in/hamdichakroon",
+    "portfolio": ""
+  },
+  "profil": "",
+  "experiences_professionnelles": [
+    {
+      "type": "Technical Manager",
+      "poste": "Technical Manager at SOTUFAB Plast",
+      "entreprise": "SOTUFAB Plast",
+      "date_debut": "05/2023-actuellement",
+      "date_fin": "",
+      "description": "Industrial maintenance (mechanical, electrical, hydraulic, automation): installation, maintenance and repair of injection, extrusion, blow-molding, packaging and recycling machines... Development and construction of devices, tools and machines: waste disposal, industrial elevators, design and repair of some molds, carts and devices for internal transport, skydomes, fire detection systems...",
+      "competences_utilisees": [
+        "Industrial maintenance",
+        "Mechanical design and development",
+        "Electrical design and automation programming"
+      ]
+    },
+    {
+      "type": "Technical Manager",
+      "poste": "Technical Manager at CIP (Comptoir Industriel de Plastique)",
+      "entreprise": "CIP (Comptoir Industriel de Plastique)",
+      "date_debut": "",
+      "date_fin": "",
+      "description": "Industrial maintenance (mechanical, electrical, hydraulic, automation): installation, maintenance and repair of injection, packaging and recycling machines... Development and construction of devices, tools and machines: scrambled plastic washing and drying machine, finished product packaging machine, industrial elevator, mold section, carts and devices for internal transport and storage, protection device, steel structure...",
+      "competences_utilisees": [
+        "Industrial maintenance",
+        "Mechanical design and development",
+        "Electrical design and automation programming"
+      ]
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "National Engineering Degree",
+      "diplome": "Ranked among the top 10",
+      "etablissement": "ENIM : Monastir National Engineering School",
+      "specialite": "Mechanical Engineering",
+      "date_debut": "09/2008-07/2011",
+      "date_fin": "",
+      "description": ""
+    },
+    {
+      "niveau": "Baccalauréat technical section competition",
+      "diplome": "(passed with distinction)",
+      "etablissement": "IPEIN: Institut préparatoire aux études d ingénieurs de NABEUL",
+      "specialite": "",
+      "date_debut": "09/1993-06/2006",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "Design and manufacture of a molding system for polyurethane resins",
+      "description": "",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "Final year project at LEONI (4 months)",
+      "date_fin": ""
+    },
+    {
+      "titre": "Design and production of a test module for testing electrical harnesses",
+      "description": "",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "Technician internship at LEONI (1 month)",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "Solidworks",
+      "XRELAIS",
+      "TIA PORTAL",
+      "ISPSoft",
+      "COMBIVIS",
+      "NodeRed"
+    ],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [
+      "Hartford",
+      "Fanuc"
+    ],
+    "bases_donnees": [],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "",
+      "niveau": ""
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "hamdi.pdf",
+    "taille_texte": 3910,
+    "date_traitement": "2025-06-04 14:13:47",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

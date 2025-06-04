@@ -48,8 +48,8 @@ def preprocess(sentence):
     return ' '.join(filtered_words)
 
 # ✅ CHEMINS - Ajuste ce nom de fichier si besoin
-input_path = r'C:\analyse_cv\Backend\data\raw_resume\raw_resume.csv'
-output_path = r'C:\analyse_cv\Backend\data\cleaned_resume\cleaned_resume.csv'
+input_path = r'C:\analyse_cv_LLM\Backend\data\raw_resume\raw_resume.csv'
+output_path = r'C:\analyse_cv_LLM\Backend\data\cleaned_resume\cleaned_resume.csv'
 
 # Vérifier que le fichier existe
 if not os.path.exists(input_path):
@@ -95,6 +95,6 @@ for records in Sentences:
 wordfreqdist = nltk.FreqDist(totalWords)
 mostcommon = wordfreqdist.most_common(50)
 
-print("\n📊 Les 50 mots les plus fréquents :")
+print("\n Les 50 mots les plus fréquents :")
 for word, freq in mostcommon:
     print(f"{word}: {freq}")

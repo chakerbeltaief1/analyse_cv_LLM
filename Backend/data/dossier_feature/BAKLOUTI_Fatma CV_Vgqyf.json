@@ -1,0 +1,135 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Fatma Baklouti",
+    "email": "fatmabaklouti72@gmail.com",
+    "telephone": "+216 52 346 123",
+    "adresse": "Sakiet eddaier, Sfax",
+    "github": "",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "profil": "Étudiante en 3ème année de Développement des Systèmes d Information à l ISET Sfax, passionnée par le développement web, mobile et l intelligence artificielle.",
+  "experiences_professionnelles": [
+    {
+      "type": "Membre Business Development",
+      "poste": "",
+      "entreprise": "AIESEC THYNA",
+      "date_debut": "2022",
+      "date_fin": "",
+      "description": "",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Responsable événementiel et logistique",
+      "poste": "",
+      "entreprise": "Club robotique arci à l ISET",
+      "date_debut": "2022",
+      "date_fin": "",
+      "description": "",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Membre",
+      "poste": "",
+      "entreprise": "ENACTUS à l ISET",
+      "date_debut": "2022",
+      "date_fin": "2023",
+      "description": "",
+      "competences_utilisees": []
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "Licence",
+      "diplome": "Technologie de l informatique",
+      "etablissement": "ISET Sfax",
+      "specialite": "Développement des Systèmes d Information",
+      "date_debut": "2022",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "Stage de perfectionnement Yassino Dev",
+      "description": "Développement d un site web de blockchain en utilisant PHP, où j ai appris les concepts de la cryptomonnaie et géré des tables de données étendues avec MySQL.",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "Juillet 2024 - Août 2024",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "PHP",
+      "Java",
+      "Node.js"
+    ],
+    "frameworks_bibliotheques": [
+      "React js",
+      "Next.js",
+      "Django",
+      "Express.js",
+      "ASP.NET",
+      "JEE",
+      "Flutter",
+      "JavaFX"
+    ],
+    "outils_developpement": [],
+    "bases_donnees": [
+      "MongoDB",
+      "MySQL",
+      "Oracle"
+    ],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "Arabe",
+      "niveau": "Langue maternelle"
+    },
+    {
+      "langue": "Français",
+      "niveau": "Niveau intermédiaire"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "Niveau intermédiaire"
+    },
+    {
+      "langue": "Chinois",
+      "niveau": "Niveau débutant"
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "BAKLOUTI_Fatma CV_Vgqyf.pdf",
+    "taille_texte": 2089,
+    "date_traitement": "2025-06-04 13:55:43",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

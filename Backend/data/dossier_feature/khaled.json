@@ -1,0 +1,203 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Khaled MIRI",
+    "email": "khaled.miri@enib.ucar.tn",
+    "telephone": "+216 55 698 510",
+    "adresse": "",
+    "github": "",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "profil": "Ingénieur généraliste, passionné de modélisation numérique, de conception et de matériaux scientifiques.",
+  "experiences_professionnelles": [
+    {
+      "type": "Stage",
+      "poste": "Internship",
+      "entreprise": "Safran",
+      "date_debut": "Juin Aoˆut 2022",
+      "date_fin": "",
+      "description": "Conception et manufacture d'un stockeur ergonomique et d'un chariot de transport. Implémentation d'une nouvelle méthode de conditionnement des kits film des réservoirs des avions.",
+      "competences_utilisees": [
+        "Management de Projet",
+        "FMECA",
+        "Mechanical Design",
+        "Production Management",
+        "Stock Management"
+      ]
+    },
+    {
+      "type": "Stage",
+      "poste": "Internship",
+      "entreprise": "Sotumeca",
+      "date_debut": "Juillet Aoˆut 2021",
+      "date_fin": "",
+      "description": "Observation et réalisation des opérations mécaniques (ebavurage, sablage, découpe, etc.). Conception d'un système de fixation de deux manettes électriques d'une voiture sur Solidworks.",
+      "competences_utilisees": [
+        "Conception Mécanique",
+        "Observation",
+        "Opérations pratiques"
+      ]
+    },
+    {
+      "type": "Stage",
+      "poste": "Internship",
+      "entreprise": "Stocktrack",
+      "date_debut": "Octobre 2023",
+      "date_fin": "Mai 2024",
+      "description": "Création d'une interface pour l'ajout, la modification et la suppression des produits. Création d'un tableau de bord avec les quantités de stock et les alertes de rupture.",
+      "competences_utilisees": [
+        "Java",
+        "React Native"
+      ]
+    },
+    {
+      "type": "Stage",
+      "poste": "Internship",
+      "entreprise": "LEM3",
+      "date_debut": "Avril Octobre 2024",
+      "date_fin": "",
+      "description": "Création d'un sous-routine UMAT pour l'étude de comportement Elasto-plastique d'un composite renforcé par fibres de carbone. Application des essais de traction et cisaillement sur un RVE sur Abaqus et Digimat.",
+      "competences_utilisees": [
+        "UMAT Subroutine",
+        "Abaqus",
+        "Digimat"
+      ]
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "Mastère",
+      "diplome": "Diplôme National d'Ingénieur en Génie Mécanique",
+      "etablissement": "Ecole Polytechnique de Tunisie",
+      "specialite": "Génie Mécanique",
+      "date_debut": "2020 Décembre 2024",
+      "date_fin": "",
+      "description": ""
+    },
+    {
+      "niveau": "Licence",
+      "diplome": "Bac Licence",
+      "etablissement": "Lycée El Wafa, Ariana",
+      "specialite": "",
+      "date_debut": "2018 Juin 2020",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "Développement d'une application de gestion de stock",
+      "description": "Création d'une interface pour l'ajout, la modification et la suppression des produits. Création d'un tableau de bord avec les quantités de stock et les alertes de rupture.",
+      "technologies": [
+        "Java",
+        "React Native"
+      ],
+      "responsabilites": [],
+      "date_debut": "Octobre 2023",
+      "date_fin": "Mai 2024"
+    },
+    {
+      "titre": "Analyse et Modélisation du mouvement humain de réduction",
+      "description": "Utilisation des méthodes OPENSIM et ARDUINO pour analyser et modéliser le mouvement humain.",
+      "technologies": [
+        "OPENSIM",
+        "ARDUINO"
+      ],
+      "responsabilites": [],
+      "date_debut": "Octobre 2021",
+      "date_fin": "Avril 2022"
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "C/C++",
+      "Java",
+      "Python",
+      "Matlab",
+      "Fortran"
+    ],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [
+      "Solidworks",
+      "Catia V5",
+      "AutoCAD",
+      "MasterCam"
+    ],
+    "bases_donnees": [],
+    "methodologies": [
+      "Simulation numérique et calcul par éléments",
+      "Matériaux composites et techniques de mise en forme"
+    ],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "Français",
+      "niveau": "Courant"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "Courant"
+    },
+    {
+      "langue": "Espagnol",
+      "niveau": "Débutant"
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "ENIB Junior Entreprise",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    },
+    {
+      "organisation": "NATEG ENIB",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "SOLIDWORKS Mechanical Design Associate (CSWA)",
+      "organisme": "SOLIDWORKS",
+      "date": "",
+      "details": ""
+    },
+    {
+      "titre": "SOLIDWORKS CAD Design Professional (CSWP)",
+      "organisme": "SOLIDWORKS",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [
+    {
+      "centre_interest": "Musique",
+      "description": ""
+    },
+    {
+      "centre_interest": "Lecture",
+      "description": ""
+    },
+    {
+      "centre_interest": "Camping",
+      "description": ""
+    },
+    {
+      "centre_interest": "Astronomie",
+      "description": ""
+    }
+  ],
+  "metadata": {
+    "fichier_source": "khaled.pdf",
+    "taille_texte": 7135,
+    "date_traitement": "2025-06-04 14:35:06",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

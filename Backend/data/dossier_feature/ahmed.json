@@ -1,0 +1,136 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Ahmed Ben Bettaieb",
+    "email": "ahmed.benbettaieb@isimg.tn",
+    "telephone": "+216 22212679",
+    "adresse": "",
+    "github": "",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "profil": "Ing enieur Logiciel D eveloppeur Full-Stack sp ecialis e en Laravel ,Node Js et React, dot e d une solide exp erience dans la conception et le d eveloppement d applications web performantes et evolutives.",
+  "experiences_professionnelles": [
+    {
+      "type": "",
+      "poste": "D eveloppeur Full-Stack",
+      "entreprise": "Peritus Tech",
+      "date_debut": "Novembre 2024-Janvier 2025",
+      "date_fin": "",
+      "description": "D eveloppement et Refactoring d une application web E-learning Adomlingua. Technologies principales utilis ees : Laravel, PHP, JS, MySQL, Docker,HTML,CSS,Blade.",
+      "competences_utilisees": []
+    },
+    {
+      "type": "",
+      "poste": "D eveloppeur Full-Stack",
+      "entreprise": "SmartSkills",
+      "date_debut": "Octobre 2023 - Octobre 2024",
+      "date_fin": "",
+      "description": "D eveloppement et conception d une application web pour analyser les r esultats de l equipe de s ecurit e. D eveloppement et conception d une application web pour le questionnaire Mehari. Technologies principales utilis ees : React, Laravel, PHP, JS, MySQL.",
+      "competences_utilisees": []
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "",
+      "diplome": "",
+      "etablissement": "Universit e TekUP",
+      "specialite": "Ing enieur en Informatique (G enie Logiciel et Syst emes d Information)",
+      "date_debut": "Septembre 2020 - Septembre 2023",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "Conception et d eveloppement d un site de freelance Letaff F evrier 2023 - Juillet 2023",
+      "description": "D eveloppement d un site de freelance connectant les clients avec les freelances en offrant des interfaces conviviales et attractives pour g erer les offres, envoyer des propositions de travail, les paiements et une messagerie en temps r eel.",
+      "technologies": [
+        "React",
+        "Express",
+        "Node",
+        "MongoDB"
+      ],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Conception et d eveloppement d un site de gestion de projets Aures Group Juin 2022 - Aoˆut 2022",
+      "description": "D eveloppement d un site de gestion de projets permettant aux employ es de mettre a jour leur avancement et a l administrateur de le suivre.",
+      "technologies": [
+        "React",
+        "TypeScript"
+      ],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "PHP",
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "SQL",
+      "HTML",
+      "CSS"
+    ],
+    "frameworks_bibliotheques": [
+      "Laravel",
+      "Symfony",
+      "React",
+      "Express",
+      "Node.js",
+      "Tailwind CSS"
+    ],
+    "outils_developpement": [
+      "Git",
+      "Docker",
+      "Firebase",
+      "Stripe",
+      "socket.io",
+      "JWT",
+      "REST APIs"
+    ],
+    "bases_donnees": [
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "",
+      "niveau": ""
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "ahmed.pdf",
+    "taille_texte": 5528,
+    "date_traitement": "2025-06-04 13:43:20",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

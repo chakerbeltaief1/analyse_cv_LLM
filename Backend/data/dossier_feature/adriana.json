@@ -1,0 +1,111 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Adriana Magnan",
+    "email": "adriana.mag52@gmail.com",
+    "telephone": "07 66 04 43 70",
+    "adresse": "Villeurbanne (69)",
+    "github": "",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "profil": "Chargée de recrutement en apprentissage et future diplômée d'un Master en Direction des Ressources Humaines, je suis à la recherche d'une opportunité pour poursuivre mon développement professionnel.",
+  "experiences_professionnelles": [
+    {
+      "type": "Alternance",
+      "poste": "Chargée de recrutement",
+      "entreprise": "ARKADIA Ingénierie (filiale BOCCARD)",
+      "date_debut": "2023-2025",
+      "date_fin": "",
+      "description": "Création / suivi des annonces Recrutement de techniciens et d ingénieurs (secteurs : nucléaire, industrie, agroalimentaire, sidérurgie) Participation à des forums Communication externe (post LinkedIn) Accompagnement des managers dans la définition de leurs besoins et profils recherchés (kick-off) Réalisation des dossiers de compétences Réalisation de l intégration des collaborateurs et des alternants (bilan d intégration, réalisation d un guide tuteur) Participation à différents sujets RH",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Consultante recrutement",
+      "poste": "Chargée de recrutement",
+      "entreprise": "MANPOWER",
+      "date_debut": "5 mois",
+      "date_fin": "",
+      "description": "Sourcing Recrutement (secteur industriel) Accueil intérimaires et candidats Administratif (gestion des dossiers intérimaires, titres de séjours, ) Organisée et rigoureuse Engagée Persévérante Savoir s adapter Esprit d équipe Bon esprit d analyse Soft Skills Hard Skills",
+      "competences_utilisees": []
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "Master",
+      "diplome": "Direction des Ressources Humaines",
+      "etablissement": "PIGIER Lyon",
+      "specialite": "",
+      "date_debut": "2022-2023",
+      "date_fin": "",
+      "description": ""
+    },
+    {
+      "niveau": "Licence",
+      "diplome": "Gestion des Ressources Humaines",
+      "etablissement": "PIGIER Lyon",
+      "specialite": "",
+      "date_debut": "2020-2022",
+      "date_fin": "",
+      "description": ""
+    },
+    {
+      "niveau": "BTS",
+      "diplome": "Gestion des Petites et Moyennes Entreprises (PME)",
+      "etablissement": "PIGIER Lyon",
+      "specialite": "",
+      "date_debut": "2020-2022",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "",
+      "description": "",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [],
+    "bases_donnees": [],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "",
+      "niveau": ""
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "TOLYREX",
+      "role": "Assistante de Direction",
+      "date_debut": "Alternance 2020-2022",
+      "date_fin": "",
+      "description": "Suivi des commandes clients, bons de livraison clients Suivi des commandes fournisseurs, réception des bons de livraison fournisseurs Suivi de la trésorerie de la comptabilité (CEGID) Enregistrement des factures fournisseurs Réception des appels téléphoniques Réception et tri du courrier Tri et archivage des documents importants Participation à des réunions Création de flyers, utilisation de CANVA Virement des paies"
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "adriana.pdf",
+    "taille_texte": 2523,
+    "date_traitement": "2025-06-04 13:39:28",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

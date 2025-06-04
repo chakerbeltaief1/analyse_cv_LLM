@@ -1,0 +1,266 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Dhahri Ichrak",
+    "email": "ichrak1.dhahri@gmail.com",
+    "telephone": "+216 26238106",
+    "adresse": "",
+    "github": "",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "profil": "Étudiante en deuxième année du cycle d ingénieur en informatique à l ISSAT Sousse, chercheuse de stage d été orienté développement web",
+  "experiences_professionnelles": [
+    {
+      "type": "Stage de perfectionnement",
+      "poste": "Tableaux de bord et analyse prédictive",
+      "entreprise": "Assurance At-Takafulia Tunis",
+      "date_debut": "Août 2024",
+      "date_fin": "",
+      "description": "Création de tableaux de bord dynamiques pour le reporting et un modéle prédictive du chiffre d affaires. Technologies : Power BI, Python",
+      "competences_utilisees": [
+        "Power BI",
+        "Python"
+      ]
+    },
+    {
+      "type": "Stage de fin d études",
+      "poste": "Solution BI EDI International Tunis",
+      "entreprise": "EDI International Tunis",
+      "date_debut": "Fév. Juin 2023",
+      "date_fin": "",
+      "description": "Développement d une solution BI pour production et sinistres et intégration d un modèle LSTM pour prévision du CA. Technologies : SSIS, SSAS, SQL Server, Power BI, Python",
+      "competences_utilisees": [
+        "SSIS",
+        "SSAS",
+        "SQL Server",
+        "Power BI",
+        "Python"
+      ]
+    },
+    {
+      "type": "Stage de perfectionnement",
+      "poste": "Application de gestion des congés EDI International Tunis",
+      "entreprise": "EDI International Tunis",
+      "date_debut": "Juillet 2022",
+      "date_fin": "",
+      "description": "Développement d une application web de gestion des congés. Technologies : C, ASP.NET, SQL Server",
+      "competences_utilisees": [
+        "C",
+        "ASP.NET",
+        "SQL Server"
+      ]
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "Cycle d ingénieur en Informatique",
+      "diplome": "",
+      "etablissement": "Institut Supérieur des Sciences Appliquées et de Technologie (ISSAT)",
+      "specialite": "Informatique",
+      "date_debut": "Sept 2023",
+      "date_fin": "",
+      "description": ""
+    },
+    {
+      "niveau": "Licence en informatique de gestion spécialité informatique décisionnelle",
+      "diplome": "",
+      "etablissement": "Institut Supérieur d Informatique de Mahdia (ISIMA)",
+      "specialite": "Informatique décisionnelle",
+      "date_debut": "Sept 2020",
+      "date_fin": "Juin 2023",
+      "description": ""
+    },
+    {
+      "niveau": "Diplôme de Baccalauréat",
+      "diplome": "",
+      "etablissement": "Lycée sened, Gafsa, Tunisie",
+      "specialite": "",
+      "date_debut": "2019",
+      "date_fin": "2020",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "Application de gestion de planning des surveillants d examens",
+      "description": "",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Plateforme e-commerce complète",
+      "description": "",
+      "technologies": [
+        "MongoDB",
+        "Express.js",
+        "React",
+        "Node.js"
+      ],
+      "responsabilites": [],
+      "date_debut": "2025",
+      "date_fin": ""
+    },
+    {
+      "titre": "Application web de gestion des parkings",
+      "description": "",
+      "technologies": [
+        "JavaScript",
+        "MongoDB",
+        "Express.js",
+        "React",
+        "Node.js"
+      ],
+      "responsabilites": [],
+      "date_debut": "2025",
+      "date_fin": ""
+    },
+    {
+      "titre": "Application de chat en temps réel",
+      "description": "",
+      "technologies": [
+        "MERN",
+        "Socket.io"
+      ],
+      "responsabilites": [],
+      "date_debut": "2025",
+      "date_fin": ""
+    },
+    {
+      "titre": "Plateforme de blog avec système de tâches et commentaires",
+      "description": "",
+      "technologies": [
+        "Django",
+        "Html"
+      ],
+      "responsabilites": [],
+      "date_debut": "2025",
+      "date_fin": ""
+    },
+    {
+      "titre": "Jeu de devinette multi-utilisateurs",
+      "description": "",
+      "technologies": [
+        "PHP",
+        "HTML",
+        "CSS"
+      ],
+      "responsabilites": [],
+      "date_debut": "2025",
+      "date_fin": ""
+    },
+    {
+      "titre": "Application de restaurant en ligne",
+      "description": "",
+      "technologies": [
+        "PHP",
+        "HTML",
+        "CSS"
+      ],
+      "responsabilites": [],
+      "date_debut": "2025",
+      "date_fin": ""
+    },
+    {
+      "titre": "Plateforme de gestion d examens en ligne",
+      "description": "",
+      "technologies": [
+        "PHP",
+        "HTML",
+        "CSS"
+      ],
+      "responsabilites": [],
+      "date_debut": "2024",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "PHP"
+    ],
+    "frameworks_bibliotheques": [
+      "React",
+      "Node.js",
+      "Express.js",
+      "Django",
+      "Tailwind",
+      "Bootstrap",
+      "Symfony"
+    ],
+    "outils_developpement": [
+      "Android Studio",
+      "VS Code",
+      "Eclipse",
+      "Packet Tracer",
+      "Visual studio",
+      "Anaconda"
+    ],
+    "bases_donnees": [
+      "MySQL",
+      "MongoDB",
+      "Oracle",
+      "Sql Server",
+      "OrientDb"
+    ],
+    "methodologies": [
+      "Scrum (Agile)"
+    ],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "Arabe",
+      "niveau": "Maternelle"
+    },
+    {
+      "langue": "Français",
+      "niveau": "Courant"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "Courant"
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "B-tech Club ATAST Fsegma",
+      "role": "Responsable Ressources Humaines et Chef de projet",
+      "date_debut": "2022",
+      "date_fin": "2023",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "Certificat de formation MERN Stack",
+      "organisme": "Orange Digital Center",
+      "date": "Mars 2025",
+      "details": "Niveau intermédiaire"
+    },
+    {
+      "titre": "Formation MERN Stack",
+      "organisme": "PingoCoders",
+      "date": "février 2024 - Septembre 2024",
+      "details": ""
+    },
+    {
+      "titre": "Formation design graphique",
+      "organisme": "Mars 2023",
+      "date": "Formation UI/UX design Octobre 2023",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "ichrak dhahri.pdf",
+    "taille_texte": 3761,
+    "date_traitement": "2025-06-04 14:18:58",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

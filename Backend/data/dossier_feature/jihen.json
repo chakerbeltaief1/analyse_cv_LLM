@@ -1,0 +1,159 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Jihen Guerchi",
+    "email": "jihenguerchi@gmail.com",
+    "telephone": "0609450592",
+    "adresse": "",
+    "github": "github.com/jihenguerchi",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "profil": "Recherche d alternance pour la 4e et 5e année de mon cycle ingénieur (Septembre 2025)",
+  "experiences_professionnelles": [
+    {
+      "type": "",
+      "poste": "Générateur de surface pour l analyse de terrains agricoles",
+      "entreprise": "Guyancourt, FR",
+      "date_debut": "janvier 2024",
+      "date_fin": "mars 2024",
+      "description": "Analyse de terrains agricoles",
+      "competences_utilisees": [
+        "MATLAB",
+        "Simulink"
+      ]
+    },
+    {
+      "type": "",
+      "poste": "Conception et modélisation d un générateur de surface pour l analyse des indices de rugosité",
+      "entreprise": "Laboratoire Atmosphères, Milieux, Observations Spatiales (LATMOS)",
+      "date_debut": "janvier 2024",
+      "date_fin": "mars 2024",
+      "description": "Conception et modélisation d un générateur de surface",
+      "competences_utilisees": [
+        "MATLAB",
+        "Simulink"
+      ]
+    },
+    {
+      "type": "",
+      "poste": "Conception d une prothèse intelligente avec supervision temps réel",
+      "entreprise": "LISV Laboratoire d Intégration des Systèmes et des Technologies",
+      "date_debut": "janvier 2024",
+      "date_fin": "avril 2024",
+      "description": "Conception d une prothèse intelligente",
+      "competences_utilisees": [
+        "STM32",
+        "ROS"
+      ]
+    },
+    {
+      "type": "",
+      "poste": "Solution d intelligence artiﬁcielle embarquée pour la détection et la localisation en temps réel de fuites d eau",
+      "entreprise": "ENET COM",
+      "date_debut": "juin 2023",
+      "date_fin": "",
+      "description": "Détection et localisation de fuites d'eau",
+      "competences_utilisees": [
+        "Edge Impulse",
+        "C/C++"
+      ]
+    },
+    {
+      "type": "",
+      "poste": "Conception et développement de convertisseurs et de cartes électroniques embarquées",
+      "entreprise": "Société Nationale Tunisienne de l Électricité et du Gaz (STEG)",
+      "date_debut": "juin 2022",
+      "date_fin": "août 2022",
+      "description": "Conception et développement de convertisseurs",
+      "competences_utilisees": [
+        "Altium Designer",
+        "I2C"
+      ]
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "",
+      "diplome": "Master 2 systéme électrique pour l énergie et la mobilité",
+      "etablissement": "École normale supérieure Paris-Saclay",
+      "specialite": "",
+      "date_debut": "septembre 2024",
+      "date_fin": "",
+      "description": ""
+    },
+    {
+      "niveau": "",
+      "diplome": "Master 1 Électronique, Énergie Électrique et Automatique",
+      "etablissement": "Université de Saint-Quentin-en-Yvelines Paris",
+      "specialite": "",
+      "date_debut": "septembre 2023",
+      "date_fin": "juin 2024",
+      "description": ""
+    },
+    {
+      "niveau": "",
+      "diplome": "Licence en Électronique, Électrotechnique et Automatique",
+      "etablissement": "École Nationale d Électronique et de Communication de Sfax",
+      "specialite": "",
+      "date_debut": "septembre 2019",
+      "date_fin": "juillet 2023",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "",
+      "description": "",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "MATLAB",
+      "C/C++"
+    ],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [
+      "STM32",
+      "ROS"
+    ],
+    "bases_donnees": [],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "Arabe",
+      "niveau": "B2"
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "jihen.pdf",
+    "taille_texte": 4221,
+    "date_traitement": "2025-06-04 14:28:23",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

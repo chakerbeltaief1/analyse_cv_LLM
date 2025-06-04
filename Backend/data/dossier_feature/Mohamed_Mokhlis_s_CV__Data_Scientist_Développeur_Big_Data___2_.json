@@ -1,0 +1,173 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "MOKHLIS Mohamed",
+    "email": "m.mokhlis.mohamed@gmail.com",
+    "telephone": "06.95.12.77.75",
+    "adresse": "",
+    "github": "",
+    "linkedin": "https://fr.linkedin.com/in/mokhlismohamed",
+    "portfolio": ""
+  },
+  "profil": "",
+  "experiences_professionnelles": [
+    {
+      "type": "STAGE",
+      "poste": "DATA SCIENTIST, DÉVELOPPEUR BIG DATA",
+      "entreprise": "ATOS",
+      "date_debut": "Mai 2016",
+      "date_fin": "Septembre 2016",
+      "description": "Réalisation d une plateforme de supervision proactive capable de prédir des anomalies dans les serveurs d application en production, en analysant les fichiers logs de ces serveurs.",
+      "competences_utilisees": [
+        "Machine learning",
+        "Big Data",
+        "Logstash",
+        "Elasticsearch",
+        "Kibana",
+        "RabbitMQ"
+      ]
+    },
+    {
+      "type": "DÉVELOPPEUR",
+      "poste": "Développement d une plateforme en PHP5, HTML5, CSS3, JavaScript, SQL pour la diffusion d informations issues du logiciel de scolarité(APOGEE)",
+      "entreprise": "DSI UNS : Direction des Systèmes d Informations de l université de Nice-Sophia Antipolis",
+      "date_debut": "Mai 2013",
+      "date_fin": "Septembre 2013",
+      "description": "",
+      "competences_utilisees": [
+        "PHP",
+        "SQL",
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ]
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "MASTER 2 MIAGE",
+      "diplome": "MIAGE",
+      "etablissement": "Université Nice Sophia-Antipolis",
+      "specialite": "Data science, BIG DATA, Machine learning, Hadoop, Spark, SQL, NoSQL database, Statistiques, Business Intelligence, datawarhouse, ETL, Reporting, management.",
+      "date_debut": "MIAGE 2014",
+      "date_fin": "MIAGE 2016",
+      "description": ""
+    },
+    {
+      "niveau": "MASTER 1 MIAGE",
+      "diplome": "MIAGE",
+      "etablissement": "Université Nice Sophia-Antipolis",
+      "specialite": "Méthodes Informatiques Appliquées à la Gestion des Entreprises",
+      "date_debut": "MIAGE 2013",
+      "date_fin": "MIAGE 2014",
+      "description": ""
+    },
+    {
+      "niveau": "LICENCE MIAGE",
+      "diplome": "MIAGE",
+      "etablissement": "Université Nice Sophia-Antipolis",
+      "specialite": "Méthodes Informatiques Appliquées à la Gestion des Entreprises",
+      "date_debut": "MIAGE 2012",
+      "date_fin": "MIAGE 2013",
+      "description": ""
+    },
+    {
+      "niveau": "LICENCE : SCIENCES MATHÉMATIQUES INFORMATIQUES",
+      "diplome": "",
+      "etablissement": "Université Chouaib Doukkali",
+      "specialite": "",
+      "date_debut": "2011",
+      "date_fin": "2012",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "",
+      "description": "",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "Python",
+      "R",
+      "Java"
+    ],
+    "frameworks_bibliotheques": [
+      "Spark",
+      "Elasticsearch",
+      "Logstash",
+      "Kibana",
+      "RabbitMQ"
+    ],
+    "outils_developpement": [
+      "Hadoop",
+      "MySQL (SQL)",
+      "Cassandra",
+      "MongoDB",
+      "Neo4j"
+    ],
+    "bases_donnees": [
+      "NoSQL database",
+      "Statistiques",
+      "Business Intelligence",
+      "datawarhouse",
+      "ETL",
+      "Reporting"
+    ],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "Français",
+      "niveau": ""
+    },
+    {
+      "langue": "Arabe",
+      "niveau": ""
+    },
+    {
+      "langue": "Anglais",
+      "niveau": ""
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [
+    {
+      "activite": "Athlétisme",
+      "duree_pratique": "15 ans"
+    },
+    {
+      "activite": "Football",
+      "duree_pratique": "10 ans"
+    }
+  ],
+  "metadata": {
+    "fichier_source": "Mohamed_Mokhlis_s_CV__Data_Scientist_Développeur_Big_Data___2_.pdf",
+    "taille_texte": 2835,
+    "date_traitement": "2025-06-04 14:44:46",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Mariem Baccouchi",
+    "email": "",
+    "telephone": "+216 28 36 43 97",
+    "adresse": "",
+    "github": "",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "profil": "Mechanical Engineer, graduated from the National Engineering School of Tunis (ENIT). I am actively seeking professional opportunities to embrace new challenges, further develop my skills, and apply my theoretical knowledge in a practical and impactful way.",
+  "experiences_professionnelles": [
+    {
+      "type": "Design Engineer",
+      "poste": "RCCO, Tunis",
+      "entreprise": "SEGULA TECHNOLOGIES",
+      "date_debut": "2024",
+      "date_fin": "",
+      "description": "Establish effective communication with clients to understand their needs, and with suppliers to monitor progress and ensure compliance with specifications. Understand component-specific requirements in the automotive sector.",
+      "competences_utilisees": [
+        "Communication",
+        "Compréhension des besoins des clients",
+        "Suivi de la progression et contrôle de la conformité aux spécifications"
+      ]
+    },
+    {
+      "type": "EPPM Mechanical designer",
+      "poste": "Tunis",
+      "entreprise": "EPPM",
+      "date_debut": "2023",
+      "date_fin": "",
+      "description": "Proficiency in Catia V5 Work carried out: Design of a pump and its pumping circuit. Design of the load-bearing support structure. Simulation and validation of the support s performance.",
+      "competences_utilisees": [
+        "Catia V5"
+      ]
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "Bac +3",
+      "diplome": "Diplôme d'ingénieur en mécanique",
+      "etablissement": "National engineering school of Tunisia, Tunis",
+      "specialite": "Mécanique",
+      "date_debut": "2020-2023",
+      "date_fin": "",
+      "description": ""
+    },
+    {
+      "niveau": "Bac +2",
+      "diplome": "Diplôme de préparation aux études supérieures",
+      "etablissement": "IPEIS, Sfax",
+      "specialite": "Préparation aux études supérieures",
+      "date_debut": "2018-2020",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "",
+      "description": "",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [
+      "Catia V5",
+      "Enovia V6",
+      "SolidWorks",
+      "Autocad",
+      "Ansys",
+      "Libre CAD",
+      "Excel"
+    ],
+    "bases_donnees": [],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "English",
+      "niveau": "B2"
+    },
+    {
+      "langue": "French",
+      "niveau": "B2"
+    },
+    {
+      "langue": "German",
+      "niveau": "A1"
+    },
+    {
+      "langue": "Arabique",
+      "niveau": "C2"
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [
+    "Organization",
+    "Teamwork",
+    "Responsibility",
+    "Creativity"
+  ],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "mariem.pdf",
+    "taille_texte": 1919,
+    "date_traitement": "2025-06-04 14:38:02",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Mohamed Fadhel DELLY",
+    "email": "dellymohamedfadhel@gmail.com",
+    "telephone": "931 317 725",
+    "adresse": "Vila Nova de Gaia, Porto",
+    "github": "",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "profil": "",
+  "experiences_professionnelles": [
+    {
+      "type": "Single Project Engineer",
+      "poste": "Alluco- Groupe Demco Monastir, Tunisie",
+      "entreprise": "Alluco- Groupe Demco Monastir, Tunisie",
+      "date_debut": "October 2023",
+      "date_fin": "March 2025",
+      "description": "Study and Design of projects using Solidworks and AutoCAD. development of aluminium profiles and accessories Finantial Estimation and Project Planning Definition, Management, and Follow-up of Specifications Maintaining constant communication between the engineering office and other departments within the company.",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Mechanical Design Engineer",
+      "poste": "Mecanometal Nabeul, Tunisia",
+      "entreprise": "Mecanometal Nabeul, Tunisia",
+      "date_debut": "February 2023",
+      "date_fin": "October 2023",
+      "description": "Spearheaded the design and development of mechanical parts while creating comprehensive assembly plans to optimize production efficiency using Solidworks and AutoCAD. Orchestrated and managed high-stakes projects by providing meticulously prepared materials, cost and time estimates, design specifications, and reports to ensure project success.",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Electromechanical Engineer (Internship)",
+      "poste": "Ets Abdelkader Mellouli Sousse, Tunisia",
+      "entreprise": "Ets Abdelkader Mellouli Sousse, Tunisia",
+      "date_debut": "August 2022",
+      "date_fin": "October 2022",
+      "description": "Formulated design plans for mechanical components and prepared assembly instructions for production using Solidworks and AutoCAD. Oversaw the manufacturing process of a stainless steel cutlery sorting machine.",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Electromechanical Engineer (Internship)",
+      "poste": "Hôtel Movenpick Resort Marine Spa Sousse, Tunisia",
+      "entreprise": "Hôtel Movenpick Resort Marine Spa Sousse, Tunisia",
+      "date_debut": "April 2022",
+      "date_fin": "August 2022",
+      "description": "Conducted thorough research and analysis to identify and resolve issues related to restoration. Investigated and studied the magnetic field, leading to the successful construction of electromagnets for manufacturing purposes.",
+      "competences_utilisees": []
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "Bachelor s degree in Mechatronics",
+      "diplome": "",
+      "etablissement": "Private school Polytechnic Sousse, Tunisia",
+      "specialite": "",
+      "date_debut": "September 2016",
+      "date_fin": "July 2019",
+      "description": "",
+      "competences_utilisees": []
+    }
+  ],
+  "projets": [
+    {
+      "titre": "",
+      "description": "",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "Python",
+      "Arduino",
+      "C++"
+    ],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [
+      "Tia Portal V16",
+      "Step 7",
+      "WinCC"
+    ],
+    "bases_donnees": [],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "English",
+      "niveau": ""
+    },
+    {
+      "langue": "French",
+      "niveau": ""
+    },
+    {
+      "langue": "Portuguese",
+      "niveau": ""
+    },
+    {
+      "langue": "Arabic",
+      "niveau": ""
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "Invention patent for a metal cutlery machine",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "mohamed.pdf",
+    "taille_texte": 3416,
+    "date_traitement": "2025-06-04 14:41:06",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

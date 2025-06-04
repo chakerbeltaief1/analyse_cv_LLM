@@ -1,0 +1,161 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Dallali Yassine",
+    "email": "yassin.dallali5@gmail.com",
+    "telephone": "+216 93 347 539",
+    "adresse": "Bardo, Tunis, Tunisie",
+    "github": "",
+    "linkedin": "",
+    "portfolio": "www.dallaligroup.tn"
+  },
+  "profil": "Étudiant en Génie Électrique à l ENSIT, passionné par la technologie, l innovation et l entrepreneuriat.",
+  "experiences_professionnelles": [
+    {
+      "type": "",
+      "poste": "",
+      "entreprise": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": "",
+      "competences_utilisees": []
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "Étudiant",
+      "diplome": "Diplôme d ingénieur en Génie Électrique",
+      "etablissement": "École Nationale Supérieure d Ingénieurs de Tunis (ENSIT)",
+      "specialite": "",
+      "date_debut": "2020-2022",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "Prototype de Skateboard Électrique",
+      "description": "Conception et réalisation d un skateboard motorisé utilisant Arduino, moteurs DC et contrôle Bluetooth.",
+      "technologies": [
+        "Arduino UNO",
+        "Bluetooth HC-06",
+        "Motor Driver L298N",
+        "Battery Systems"
+      ],
+      "responsabilites": [],
+      "date_debut": "2016 - 2020",
+      "date_fin": ""
+    },
+    {
+      "titre": "Vireur Triphasé",
+      "description": "Conception et réalisation d un système de virage automatisé pour applications industrielles, utilisant un moteur asynchrone triphasé piloté par Arduino Mega.",
+      "technologies": [
+        "Arduino Mega",
+        "Contacteurs",
+        "Relais",
+        "Moteurs Triphasés",
+        "Circuits de Commande et de Puissance"
+      ],
+      "responsabilites": [],
+      "date_debut": "2016 - 2020",
+      "date_fin": ""
+    },
+    {
+      "titre": "Robot Guidé par Bluetooth",
+      "description": "Développement d un robot contrôlé via smartphone utilisant STM32 et Bluetooth.",
+      "technologies": [
+        "STM32 F4",
+        "HC-06",
+        "C Embarqué",
+        "Contrôle PWM de Moteurs",
+        "Kell uVision",
+        "ST-LINK Utility"
+      ],
+      "responsabilites": [],
+      "date_debut": "2016 - 2020",
+      "date_fin": ""
+    },
+    {
+      "titre": "Jeu de Snake sur Matrice LED",
+      "description": "Création d un jeu de snake jouable sur une matrice LED 8x8 contrôlée par un joystick.",
+      "technologies": [
+        "Arduino UNO",
+        "MAX7219",
+        "Analog Joystick Module",
+        "Matrix Animation Control"
+      ],
+      "responsabilites": [],
+      "date_debut": "2016 - 2020",
+      "date_fin": ""
+    },
+    {
+      "titre": "Système de Pliage avec Bras Robotique",
+      "description": "Modélisation et simulation d un système de pliage robotisé utilisant Siemens S7-1200 (CPU 1212). Programmation de la logique d automatisation avec GRAFCET et configuration du processus via TIA Portal.",
+      "technologies": [
+        "Arduino Mega",
+        "Contactors",
+        "Relays",
+        "3-phase Motors",
+        "Command Power Circuits"
+      ],
+      "responsabilites": [],
+      "date_debut": "2016 - 2020",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "C Embarqué",
+      "Arduino IDE",
+      "MATLAB Simulink"
+    ],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [
+      "Keil uVision",
+      "STM32CubeIDE",
+      "LabVIEW"
+    ],
+    "bases_donnees": [],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "Anglais",
+      "niveau": "Fluent"
+    },
+    {
+      "langue": "Français",
+      "niveau": "Fluent"
+    },
+    {
+      "langue": "Arabe",
+      "niveau": "Native"
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "yassine.pdf",
+    "taille_texte": 7192,
+    "date_traitement": "2025-06-04 15:02:38",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

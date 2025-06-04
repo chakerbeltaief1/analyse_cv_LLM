@@ -1,0 +1,169 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "CHAKER BELTAIEF",
+    "email": "chakerbeltaief1@gmail.com",
+    "telephone": "",
+    "adresse": "",
+    "github": "https://github.com/chakerbeltaief1",
+    "linkedin": "https://www.linkedin.com/in/chaker-b",
+    "portfolio": "portafolio.com"
+  },
+  "profil": "Étudiant Data Scientist",
+  "experiences_professionnelles": [
+    {
+      "type": "Stage de fin d'étude",
+      "poste": "Conception et développement d un modèle d intelligence artificielle pour l extraction automatisée des données à partir des CV.",
+      "entreprise": "Université du Logiciel Sfax",
+      "date_debut": "2/2025",
+      "date_fin": "7/2025",
+      "description": "",
+      "competences_utilisees": [
+        "Python",
+        "NLP (SpaCy, Transformers)",
+        "OCR (Tesseract, PyMuPDF)",
+        "Machine Learning (Scikit-learn, TensorFlow)",
+        "Flask",
+        "Streamlit",
+        "MongoDB",
+        "Docker"
+      ]
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "Master Professionnel en Data Scientist",
+      "diplome": "",
+      "etablissement": "Ecole Polytechnique Internationale de Tunis",
+      "specialite": "Data Science",
+      "date_debut": "2023 - 2025",
+      "date_fin": "",
+      "description": ""
+    },
+    {
+      "niveau": "Master Recherche en Génie Industriel",
+      "diplome": "",
+      "etablissement": "Institut Supérieur De Gestion Industrielle De Sfax",
+      "specialite": "Génie Industriel",
+      "date_debut": "2022 - 2023",
+      "date_fin": "",
+      "description": ""
+    },
+    {
+      "niveau": "Licence Nationale en Génie Mécanique",
+      "diplome": "",
+      "etablissement": "Institut Supérieur De Gestion Industrielle De Sfax",
+      "specialite": "Génie Mécanique",
+      "date_debut": "2016 - 2019",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "Projet de deep learning pour la détection du cancer du poumon à partir d images IRM",
+      "description": "",
+      "technologies": [
+        "Python",
+        "SQL",
+        "NOSQL",
+        "POWER BI",
+        "HTML",
+        "CSS",
+        "Machine Learning",
+        "NLP",
+        "LLM",
+        "Deep Learning",
+        "Spark",
+        "Hadoop",
+        "Hive",
+        "Pig"
+      ],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Projet Kaggle Prévision d un Crédit Logement",
+      "description": "",
+      "technologies": [
+        "Python",
+        "Machine Learning"
+      ],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Projet portefeuille d analyste de données",
+      "description": "",
+      "technologies": [
+        "SQL",
+        "Python",
+        "Excel",
+        "Tableau",
+        "Power BI"
+      ],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Projet capstone d analyste de données IBM",
+      "description": "",
+      "technologies": [
+        "PYTHON",
+        "SQL"
+      ],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "Python",
+      "SQL",
+      "NOSQL",
+      "POWER BI",
+      "HTML",
+      "CSS"
+    ],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [],
+    "bases_donnees": [],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "English",
+      "niveau": ""
+    },
+    {
+      "langue": "Français",
+      "niveau": ""
+    },
+    {
+      "langue": "Arabe",
+      "niveau": ""
+    }
+  ],
+  "vie_associative": [],
+  "certifications": [
+    {
+      "titre": "Certificat professionnel IBM Data Analyst sur Coursera",
+      "organisme": "IBM",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "chaker_beltaief.pdf",
+    "taille_texte": 4219,
+    "date_traitement": "2025-06-04 13:59:29",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

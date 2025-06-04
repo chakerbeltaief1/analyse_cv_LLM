@@ -1,0 +1,125 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "EL HASSOUNY Alae",
+    "email": "elhassounyalae01@gmail.com",
+    "telephone": "+212-613271555",
+    "adresse": "Fès, Maroc",
+    "github": "",
+    "linkedin": "Profil Jeune diplômé en audit et contrôle",
+    "portfolio": ""
+  },
+  "profil": "Jeune diplômé en audit et contrôle, avec des compétences solides en audit interne, contrôle de gestion, gestion des risques, et contrôle interne. Rigoureux, analytique, et orienté vers l efficacité opérationnelle.",
+  "experiences_professionnelles": [
+    {
+      "type": "Stage",
+      "poste": "Agent d importation",
+      "entreprise": "METRACO, Fès",
+      "date_debut": "décembre 2024 février 2025",
+      "date_fin": "",
+      "description": "Audit de conformité des documents interne du département et les documents bancaires. Vérification et comparaison des documents originaux avec les documents draft et Proforma Invoice. Calcul et vérification des droits de douanes. Création de l engagement d importation et de la licence d importation. Calcul des fiches d achat.",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Stage",
+      "poste": "Auditeur interne",
+      "entreprise": "Renault Meknès Auto",
+      "date_debut": "Mars 2024 Juin 2024",
+      "date_fin": "",
+      "description": "Meski Audit Cycle Vente et cycle d achat de l Entreprise Examen des dossiers de vente aux clients Audit qualité des aléas facture du cycle achat et examen des documents d achat Gestion des risques : identification, évaluation et traitement des risques et Établissement de la cartographie des risques Révision du manuel de procédure de l entreprise",
+      "competences_utilisees": []
+    },
+    {
+      "type": "Stage",
+      "poste": "Aide comptable",
+      "entreprise": "Cabinet comptable FIDAMIS, Fès",
+      "date_debut": "Octobre 2021 Janvier 2022",
+      "date_fin": "",
+      "description": "Initiation avec le travail du comptable Le classement des pièces comptables. L enregistrement des écritures comptable. Etablissement des déclarations fiscales TVA . Déclarations fiscales TVA .",
+      "competences_utilisees": []
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "Master",
+      "diplome": "Management, Audit et Contrôle",
+      "etablissement": "Fès Faculté des Sciences Juridiques, Économiques et Sociales Fès",
+      "specialite": "",
+      "date_debut": "2022 2024",
+      "date_fin": "",
+      "description": ""
+    },
+    {
+      "niveau": "Licence fondamentale",
+      "diplome": "Gestion",
+      "etablissement": "Fès Faculté des Sciences Juridiques, Économiques et Sociales Fès",
+      "specialite": "",
+      "date_debut": "2018 2022",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "",
+      "description": "",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      "Sage",
+      "Servant comptabilité",
+      "Power BI",
+      "Logiciel R pour l analyse des données",
+      "Microsoft Office"
+    ],
+    "frameworks_bibliotheques": [],
+    "outils_developpement": [],
+    "bases_donnees": [],
+    "methodologies": [],
+    "cloud_devops": [],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "Arabe",
+      "niveau": ""
+    },
+    {
+      "langue": "Français",
+      "niveau": ""
+    },
+    {
+      "langue": "Anglais",
+      "niveau": ""
+    }
+  ],
+  "vie_associative": [
+    {
+      "organisation": "",
+      "role": "",
+      "date_debut": "",
+      "date_fin": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "alae.pdf",
+    "taille_texte": 2370,
+    "date_traitement": "2025-06-04 13:49:17",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

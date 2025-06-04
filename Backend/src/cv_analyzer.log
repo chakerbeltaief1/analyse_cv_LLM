@@ -1,0 +1,291 @@
+2025-05-14 13:14:07,266 - INFO - Début du traitement de 2 fichiers PDF
+2025-05-14 13:14:07,266 - INFO - Configuration: {
+  "folder_path": "C:\\analyse_cv\\Backend\\data\\cv_brut",
+  "output_csv": "C:\\analyse_cv\\Backend\\data\\raw_resume.csv",
+  "model_name": "llama3.2:3b",
+  "max_workers": 4,
+  "timeout_seconds": 60,
+  "retry_count": 2
+}
+2025-05-14 13:14:07,267 - INFO - Traitement du fichier: CV_chaker_beltaief (1).pdf
+2025-05-14 13:14:07,268 - INFO - Traitement du fichier: CV_LkbEN.pdf
+2025-05-14 13:14:07,330 - ERROR - Erreur lors du traitement de CV_LkbEN.pdf: Invalid format specifier
+2025-05-14 13:14:07,335 - ERROR - Erreur lors du traitement de CV_chaker_beltaief (1).pdf: Invalid format specifier
+2025-05-14 13:14:07,343 - INFO - Temps d'exécution total: 0.08 secondes
+2025-05-14 13:14:30,749 - ERROR - Le dossier C:\analyse_cv\Backend\src\data\cv_brut n'existe pas.
+2025-05-14 13:14:30,749 - INFO - Temps d'exécution total: 0.00 secondes
+2025-05-14 13:18:08,414 - INFO - Traitement de : CV_chaker_beltaief (1).pdf
+2025-05-14 13:18:08,415 - INFO - Traitement de : CV_LkbEN.pdf
+2025-05-14 13:19:29,911 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 13:20:52,242 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 13:20:52,255 - INFO - 2 CVs traités. Données enregistrées dans C:\analyse_cv\Backend\data\raw_resume.csv
+2025-05-14 13:20:52,256 - INFO - Temps total: 163.84 secondes
+2025-05-14 13:41:06,940 - INFO - Traitement de : CV_chaker_beltaief (1).pdf
+2025-05-14 13:41:06,940 - INFO - Traitement de : CV_LkbEN.pdf
+2025-05-14 13:43:01,520 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 13:44:34,712 - INFO - Traitement de : CV_chaker_beltaief (1).pdf
+2025-05-14 13:44:34,713 - INFO - Traitement de : CV_LkbEN.pdf
+2025-05-14 13:46:18,591 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 13:47:42,337 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 13:47:42,345 - INFO - 2 CVs traités. Données enregistrées dans C:/analyse_cv/Backend/data/dossier_feature/resumes_analyses.json
+2025-05-14 13:47:42,346 - INFO - Temps total: 187.63 secondes
+2025-05-14 15:17:36,858 - INFO - Traitement de : BAKLOUTI_Fatma CV_Vgqyf.pdf
+2025-05-14 15:17:36,859 - INFO - Traitement de : cv_arije.pdf
+2025-05-14 15:17:36,870 - INFO - Traitement de : CV_BELTAIEF_Chaker (1) .pdf.pdf
+2025-05-14 15:17:36,968 - INFO - Traitement de : CV_LkbEN.pdf
+2025-05-14 15:19:39,585 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 15:19:39,590 - INFO - Traitement de : cv_samar.pdf
+2025-05-14 15:21:28,266 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 15:23:17,231 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 15:25:40,819 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 15:27:12,106 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 15:27:12,111 - INFO - 5 CVs traités et enregistrés individuellement.
+2025-05-14 15:27:12,112 - INFO - Temps total: 575.26 secondes
+2025-05-14 22:55:08,665 - INFO - Début du traitement de 5 fichiers avec 4 workers
+2025-05-14 22:55:08,666 - INFO - Traitement de : BAKLOUTI_Fatma CV_Vgqyf.pdf
+2025-05-14 22:55:08,667 - INFO - Traitement de : cv_arije.pdf
+2025-05-14 22:55:08,667 - INFO - Traitement de : CV_BELTAIEF_Chaker (1) .pdf.pdf
+2025-05-14 22:55:08,762 - INFO - Traitement de : CV_LkbEN.pdf
+2025-05-14 22:57:47,906 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 22:57:47,910 - INFO - Traitement de : cv_samar.pdf
+2025-05-14 23:00:36,050 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 23:02:28,624 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 23:04:12,925 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 23:06:48,468 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 23:06:48,476 - INFO - Traitement terminé: 5/5 CVs analysés avec succès.
+2025-05-14 23:06:48,476 - INFO - Fichiers sauvegardés dans: C:/analyse_cv/Backend/data/dossier_feature
+2025-05-14 23:06:48,477 - INFO - Temps total d'exécution: 699.81 secondes (11.66 minutes)
+2025-05-14 23:12:53,654 - WARNING - Création du dossier manquant: C:nalyse_cv\Backend\data\cv_brut
+2025-05-14 23:13:24,600 - INFO - Début du traitement de 5 fichiers avec 4 workers
+2025-05-14 23:13:24,601 - INFO - Traitement de : BAKLOUTI_Fatma CV_Vgqyf.pdf
+2025-05-14 23:13:24,611 - INFO - Traitement de : cv_arije.pdf
+2025-05-14 23:13:24,615 - INFO - Traitement de : CV_BELTAIEF_Chaker (1) .pdf.pdf
+2025-05-14 23:13:24,615 - INFO - Traitement de : CV_LkbEN.pdf
+2025-05-14 23:15:27,092 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 23:15:27,097 - INFO - Traitement de : cv_samar.pdf
+2025-05-14 23:18:33,703 - INFO - Début du traitement de 5 fichiers avec 4 workers
+2025-05-14 23:18:33,704 - INFO - Traitement de : BAKLOUTI_Fatma CV_Vgqyf.pdf
+2025-05-14 23:18:33,704 - INFO - Traitement de : cv_arije.pdf
+2025-05-14 23:18:33,712 - INFO - Traitement de : CV_BELTAIEF_Chaker (1) .pdf.pdf
+2025-05-14 23:18:33,721 - INFO - Traitement de : CV_LkbEN.pdf
+2025-05-14 23:20:48,855 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 23:20:48,858 - INFO - Traitement de : cv_samar.pdf
+2025-05-14 23:22:36,562 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 23:24:45,128 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 23:27:29,508 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 23:30:09,832 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-14 23:30:09,838 - INFO - Traitement terminé: 5/5 CVs analysés avec succès.
+2025-05-14 23:30:09,839 - INFO - Fichiers sauvegardés dans: C:/analyse_cv/Backend/data/dossier_feature
+2025-05-14 23:30:09,840 - INFO - Temps total d'exécution: 696.14 secondes (11.60 minutes)
+2025-05-15 00:13:45,857 - INFO - Début du traitement de 1 fichiers avec 4 workers
+2025-05-15 00:13:45,858 - INFO - Traitement de : khaled.pdf
+2025-05-15 00:17:52,132 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-15 00:17:52,135 - INFO - Traitement terminé: 1/1 CVs analysés avec succès.
+2025-05-15 00:17:52,136 - INFO - Fichiers sauvegardés dans: C:/analyse_cv/Backend/data/dossier_feature
+2025-05-15 00:17:52,136 - INFO - Temps total d'exécution: 246.28 secondes (4.10 minutes)
+2025-05-15 12:00:42,953 - INFO - Début du traitement de 1 fichiers avec 4 workers
+2025-05-15 12:00:42,954 - INFO - Traitement de : khaled.pdf
+2025-05-15 12:04:02,297 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-15 12:04:02,306 - INFO - Traitement terminé: 1/1 CVs analysés avec succès.
+2025-05-15 12:04:02,306 - INFO - Fichiers sauvegardés dans: C:/analyse_cv/Backend/data/dossier_feature
+2025-05-15 12:04:02,307 - INFO - Temps total d'exécution: 199.35 secondes (3.32 minutes)
+2025-05-16 12:25:14,440 - INFO - Début du traitement de 1 fichiers avec 4 workers
+2025-05-16 12:25:14,441 - INFO - Traitement de : khaled.pdf
+2025-05-16 12:27:04,461 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-16 12:27:04,461 - WARNING - Erreur JSON: Expecting value: line 1 column 1 (char 0)
+2025-05-16 12:27:04,462 - WARNING - Tentative 1/4: JSON invalide.
+2025-05-16 12:29:09,197 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-16 12:29:09,199 - WARNING - Erreur JSON: Expecting value: line 1 column 1 (char 0)
+2025-05-16 12:29:09,199 - WARNING - Tentative 2/4: JSON invalide.
+2025-05-16 12:30:51,026 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-16 12:30:51,032 - WARNING - Erreur JSON: Expecting value: line 1 column 1 (char 0)
+2025-05-16 12:30:51,032 - WARNING - Tentative 3/4: JSON invalide.
+2025-05-16 12:35:35,492 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-16 12:35:35,494 - WARNING - Erreur JSON: Expecting value: line 1 column 1 (char 0)
+2025-05-16 12:35:35,494 - WARNING - Tentative 4/4: JSON invalide.
+2025-05-16 12:35:37,500 - ERROR - Impossible d'extraire des informations structurées de khaled.pdf
+2025-05-16 12:35:37,504 - WARNING - Aucun résultat valide généré.
+2025-05-16 12:35:37,504 - INFO - Temps total d'exécution: 623.06 secondes (10.38 minutes)
+2025-05-16 12:38:25,771 - WARNING - Création du dossier manquant: C:nalyse_cv\Backend\data\cv_brut\CV_BELTAIEF_Chaker (1) .pdf.pdf
+2025-05-16 12:45:14,510 - WARNING - Création du dossier manquant: C:/analyse_cv/Backend/data/dossier_feature
+2025-05-16 12:45:51,702 - INFO - Début du traitement de 2 fichiers avec 4 workers
+2025-05-16 12:45:51,703 - INFO - Traitement de : chaker_beltaief.pdf
+2025-05-16 12:45:51,704 - INFO - Traitement de : khaled.pdf
+2025-05-16 12:45:51,806 - ERROR - Erreur lors du traitement de chaker_beltaief.pdf: name 'LLM_CONFIG' is not defined
+2025-05-16 12:45:51,869 - ERROR - Erreur lors du traitement de khaled.pdf: name 'LLM_CONFIG' is not defined
+2025-05-16 12:45:51,877 - WARNING - Aucun résultat valide généré.
+2025-05-16 12:45:51,877 - INFO - Temps total d'exécution: 0.17 secondes (0.00 minutes)
+2025-05-16 12:46:43,339 - INFO - Début du traitement de 2 fichiers avec 4 workers
+2025-05-16 12:46:43,340 - INFO - Traitement de : chaker_beltaief.pdf
+2025-05-16 12:46:43,341 - INFO - Traitement de : khaled.pdf
+2025-05-16 12:46:43,437 - ERROR - Erreur lors du traitement de chaker_beltaief.pdf: name 'LLM_CONFIG' is not defined
+2025-05-16 12:46:43,499 - ERROR - Erreur lors du traitement de khaled.pdf: name 'LLM_CONFIG' is not defined
+2025-05-16 12:46:43,513 - WARNING - Aucun résultat valide généré.
+2025-05-16 12:46:43,513 - INFO - Temps total d'exécution: 0.17 secondes (0.00 minutes)
+2025-05-16 12:54:24,020 - INFO - 2 fichiers trouvés. Lancement du traitement...
+2025-05-16 12:54:24,021 - INFO - Traitement de : chaker_beltaief.pdf
+2025-05-16 12:54:24,022 - INFO - Traitement de : khaled.pdf
+2025-05-16 12:59:14,551 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-16 13:04:03,875 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-16 13:04:03,882 - INFO - 2 fichiers traités avec succès sur 2.
+2025-05-16 13:09:09,381 - INFO - 4 fichiers trouvés. Lancement du traitement...
+2025-05-16 13:09:09,382 - INFO - Traitement de : BAKLOUTI_Fatma CV_Vgqyf.pdf
+2025-05-16 13:09:09,382 - INFO - Traitement de : chaker_beltaief.pdf
+2025-05-16 13:09:09,389 - INFO - Traitement de : CV_LkbEN.pdf
+2025-05-16 13:09:09,444 - INFO - Traitement de : khaled.pdf
+2025-05-16 13:12:40,724 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-16 13:12:40,728 - ERROR - Erreur lors du traitement de khaled.pdf: [WinError 123] La syntaxe du nom de fichier, de répertoire ou de volume est incorrecte: 'C:\x07nalyse_cv_LLM'
+2025-05-16 13:14:56,236 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-16 13:14:56,239 - ERROR - Erreur lors du traitement de CV_LkbEN.pdf: [WinError 123] La syntaxe du nom de fichier, de répertoire ou de volume est incorrecte: 'C:\x07nalyse_cv_LLM'
+2025-05-16 13:16:51,852 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-16 13:16:51,854 - ERROR - Erreur lors du traitement de BAKLOUTI_Fatma CV_Vgqyf.pdf: [WinError 123] La syntaxe du nom de fichier, de répertoire ou de volume est incorrecte: 'C:\x07nalyse_cv_LLM'
+2025-05-16 13:17:52,895 - INFO - 4 fichiers trouvés. Lancement du traitement...
+2025-05-16 13:17:52,897 - INFO - Traitement de : BAKLOUTI_Fatma CV_Vgqyf.pdf
+2025-05-16 13:17:52,914 - INFO - Traitement de : chaker_beltaief.pdf
+2025-05-16 13:17:53,078 - INFO - Traitement de : CV_LkbEN.pdf
+2025-05-16 13:17:53,141 - INFO - Traitement de : khaled.pdf
+2025-05-16 13:21:39,403 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-16 13:28:34,319 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-16 13:33:56,750 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-16 13:36:09,293 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-16 13:36:09,299 - INFO - 4 fichiers traités avec succès sur 4.
+2025-05-19 13:42:11,665 - INFO - 7 fichiers trouvés. Lancement du traitement...
+2025-05-19 13:42:11,668 - INFO - Traitement de : alae.pdf
+2025-05-19 13:42:11,668 - INFO - Traitement de : BAKLOUTI_Fatma CV_Vgqyf.pdf
+2025-05-19 13:42:11,678 - INFO - Traitement de : chaker_beltaief.pdf
+2025-05-19 13:42:11,678 - INFO - Traitement de : CV_LkbEN.pdf
+2025-05-19 13:43:26,807 - INFO - 3 fichiers trouvés. Lancement du traitement...
+2025-05-19 13:43:26,808 - INFO - Traitement de : alae.pdf
+2025-05-19 13:43:26,808 - INFO - Traitement de : ichrak dhahri.pdf
+2025-05-19 13:43:26,809 - INFO - Traitement de : jihen.pdf
+2025-05-19 13:45:40,821 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-19 13:48:22,639 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-19 13:53:07,045 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-05-19 13:53:07,055 - INFO - 3 fichiers traités avec succès sur 3.
+2025-05-22 18:07:35,354 - INFO - 3 fichiers trouvés. Lancement du traitement...
+2025-05-22 18:07:35,356 - INFO - Traitement de : alae.pdf
+2025-05-22 18:07:35,356 - INFO - Traitement de : ichrak dhahri.pdf
+2025-05-22 18:07:35,357 - INFO - Traitement de : jihen.pdf
+2025-05-22 18:12:32,098 - INFO - 3 fichiers trouvés. Lancement du traitement...
+2025-05-22 18:12:32,099 - INFO - Traitement de : alae.pdf
+2025-05-22 18:12:32,100 - INFO - Traitement de : ichrak dhahri.pdf
+2025-05-22 18:12:32,111 - INFO - Traitement de : jihen.pdf
+2025-05-22 18:23:02,309 - INFO - 3 fichiers traités avec succès sur 3.
+2025-05-25 20:50:45,652 - INFO - 1 fichiers trouvés. Lancement du traitement...
+2025-05-25 20:50:45,653 - INFO - Traitement de : yassine.pdf
+2025-05-25 20:53:16,634 - INFO - 1 fichiers traités avec succès sur 1.
+2025-06-04 13:14:35,987 - INFO - 27 fichiers trouvés. Lancement du traitement...
+2025-06-04 13:14:35,989 - INFO - Traitement de : ABDEMLEK.pdf
+2025-06-04 13:14:35,990 - INFO - Traitement de : adriana.pdf
+2025-06-04 13:14:36,000 - INFO - Traitement de : ahmed.pdf
+2025-06-04 13:14:36,001 - INFO - Traitement de : alae.pdf
+2025-06-04 13:16:38,339 - WARNING - Erreur JSON: Expecting value: line 1 column 1 (char 0)
+2025-06-04 13:16:38,341 - ERROR - Impossible de corriger le JSON invalide
+2025-06-04 13:16:38,342 - WARNING - Tentative 1/4: JSON invalide.
+2025-06-04 13:18:59,903 - WARNING - Erreur JSON: Expecting value: line 1 column 1 (char 0)
+2025-06-04 13:18:59,903 - ERROR - Impossible de corriger le JSON invalide
+2025-06-04 13:18:59,903 - WARNING - Tentative 1/4: JSON invalide.
+2025-06-04 13:20:37,117 - WARNING - Erreur JSON: Expecting value: line 1 column 1 (char 0)
+2025-06-04 13:20:37,118 - ERROR - Impossible de corriger le JSON invalide
+2025-06-04 13:20:37,118 - WARNING - Tentative 1/4: JSON invalide.
+2025-06-04 13:22:35,940 - WARNING - Erreur JSON: Expecting value: line 1 column 1 (char 0)
+2025-06-04 13:22:35,941 - ERROR - Impossible de corriger le JSON invalide
+2025-06-04 13:22:35,942 - WARNING - Tentative 1/4: JSON invalide.
+2025-06-04 13:27:39,927 - INFO - 27 fichiers trouvés. Lancement du traitement...
+2025-06-04 13:27:39,929 - INFO - Traitement de : ABDEMLEK.pdf
+2025-06-04 13:27:39,947 - INFO - Traitement de : adriana.pdf
+2025-06-04 13:27:39,953 - INFO - Traitement de : ahmed.pdf
+2025-06-04 13:27:39,954 - INFO - Traitement de : alae.pdf
+2025-06-04 13:28:54,801 - WARNING - Erreur JSON: Expecting value: line 1 column 1 (char 0)
+2025-06-04 13:28:54,802 - ERROR - Impossible de corriger le JSON invalide
+2025-06-04 13:28:54,803 - WARNING - Tentative 1/4: JSON invalide.
+2025-06-04 13:30:32,332 - WARNING - Erreur JSON: Expecting value: line 1 column 1 (char 0)
+2025-06-04 13:30:32,333 - ERROR - Impossible de corriger le JSON invalide
+2025-06-04 13:30:32,333 - WARNING - Tentative 1/4: JSON invalide.
+2025-06-04 13:33:47,171 - INFO - Modèle llama3.2:3b disponible
+2025-06-04 13:33:47,171 - INFO - 27 fichiers trouvés. Lancement du traitement...
+2025-06-04 13:33:47,180 - INFO - Traitement de : ABDEMLEK.pdf
+2025-06-04 13:35:01,805 - INFO - Modèle llama3.2:3b disponible
+2025-06-04 13:35:01,806 - INFO - 27 fichiers trouvés. Lancement du traitement...
+2025-06-04 13:35:01,813 - INFO - Traitement de : ABDEMLEK.pdf
+2025-06-04 13:36:35,301 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\ABDEMLEK.json
+2025-06-04 13:36:36,309 - INFO - Traitement de : adriana.pdf
+2025-06-04 13:39:28,576 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\adriana.json
+2025-06-04 13:39:29,587 - INFO - Traitement de : ahmed.pdf
+2025-06-04 13:43:20,438 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\ahmed.json
+2025-06-04 13:43:21,447 - INFO - Traitement de : alae.pdf
+2025-06-04 13:46:21,119 - INFO - Modèle llama3.2:3b disponible
+2025-06-04 13:46:21,120 - INFO - 27 fichiers trouvés. Lancement du traitement...
+2025-06-04 13:46:21,130 - INFO - Traitement de : ABDEMLEK.pdf
+2025-06-04 13:46:21,130 - INFO - Fichier ABDEMLEK.pdf déjà traité, passage au suivant
+2025-06-04 13:46:22,133 - INFO - Traitement de : adriana.pdf
+2025-06-04 13:46:22,133 - INFO - Fichier adriana.pdf déjà traité, passage au suivant
+2025-06-04 13:46:23,140 - INFO - Traitement de : ahmed.pdf
+2025-06-04 13:46:23,140 - INFO - Fichier ahmed.pdf déjà traité, passage au suivant
+2025-06-04 13:46:24,149 - INFO - Traitement de : alae.pdf
+2025-06-04 13:49:17,330 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\alae.json
+2025-06-04 13:49:18,337 - INFO - Traitement de : alexandre.pdf
+2025-06-04 13:51:51,602 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\alexandre.json
+2025-06-04 13:51:52,612 - INFO - Traitement de : ali.pdf
+2025-06-04 13:53:36,070 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\ali.json
+2025-06-04 13:53:37,071 - INFO - Traitement de : BAKLOUTI_Fatma CV_Vgqyf.pdf
+2025-06-04 13:55:43,987 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\BAKLOUTI_Fatma CV_Vgqyf.json
+2025-06-04 13:55:44,993 - INFO - Traitement de : chaker_beltaief.pdf
+2025-06-04 13:59:29,519 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\chaker_beltaief.json
+2025-06-04 13:59:30,535 - INFO - Traitement de : CV_LkbEN.pdf
+2025-06-04 14:02:26,946 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\CV_LkbEN.json
+2025-06-04 14:02:27,957 - INFO - Traitement de : eya tellili.pdf
+2025-06-04 14:05:46,813 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\eya tellili.json
+2025-06-04 14:05:47,825 - INFO - Traitement de : habiba.pdf
+2025-06-04 14:10:45,528 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\habiba.json
+2025-06-04 14:10:46,543 - INFO - Traitement de : hamdi.pdf
+2025-06-04 14:13:47,483 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\hamdi.json
+2025-06-04 14:13:48,486 - INFO - Traitement de : ichrak dhahri.pdf
+2025-06-04 14:18:58,008 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\ichrak dhahri.json
+2025-06-04 14:18:59,014 - INFO - Traitement de : jan.pdf
+2025-06-04 14:23:28,490 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\jan.json
+2025-06-04 14:23:29,821 - INFO - Traitement de : jihen.pdf
+2025-06-04 14:28:23,334 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\jihen.json
+2025-06-04 14:28:24,352 - INFO - Traitement de : khaled.pdf
+2025-06-04 14:35:06,047 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\khaled.json
+2025-06-04 14:35:07,062 - INFO - Traitement de : mariem.pdf
+2025-06-04 14:38:02,192 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\mariem.json
+2025-06-04 14:38:03,205 - INFO - Traitement de : mohamed.pdf
+2025-06-04 14:41:06,802 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\mohamed.json
+2025-06-04 14:41:07,810 - INFO - Traitement de : Mohamed_Mokhlis_s_CV__Data_Scientist_Développeur_Big_Data_.pdf
+2025-06-04 14:41:07,811 - ERROR - Erreur lors de la lecture du PDF C:\analyse_cv_LLM\Backend\data\cv_brut\Mohamed_Mokhlis_s_CV__Data_Scientist_Développeur_Big_Data_.pdf: no such file: 'C:\analyse_cv_LLM\Backend\data\cv_brut\Mohamed_Mokhlis_s_CV__Data_Scientist_Développeur_Big_Data_.pdf'
+2025-06-04 14:41:07,811 - ERROR - Erreur lors du traitement de Mohamed_Mokhlis_s_CV__Data_Scientist_Développeur_Big_Data_.pdf: no such file: 'C:\analyse_cv_LLM\Backend\data\cv_brut\Mohamed_Mokhlis_s_CV__Data_Scientist_Développeur_Big_Data_.pdf'
+Traceback (most recent call last):
+  File "C:\analyse_cv_LLM\Backend\src\feature_extraction_llm.py", line 335, in process_file
+    text = PDFTextExtractor.extract(file_path)
+  File "C:\analyse_cv_LLM\Backend\src\feature_extraction_llm.py", line 75, in extract
+    with fitz.open(file_path) as doc:
+  File "C:\analyse_cv_LLM\Backend\src\env\lib\site-packages\pymupdf\__init__.py", line 2958, in __init__
+    raise FileNotFoundError(f"no such file: '{filename}'")
+pymupdf.FileNotFoundError: no such file: 'C:\analyse_cv_LLM\Backend\data\cv_brut\Mohamed_Mokhlis_s_CV__Data_Scientist_Développeur_Big_Data_.pdf'
+2025-06-04 14:41:08,836 - INFO - Traitement de : Mohamed_Mokhlis_s_CV__Data_Scientist_Développeur_Big_Data___1_.pdf
+2025-06-04 14:41:08,836 - ERROR - Erreur lors de la lecture du PDF C:\analyse_cv_LLM\Backend\data\cv_brut\Mohamed_Mokhlis_s_CV__Data_Scientist_Développeur_Big_Data___1_.pdf: no such file: 'C:\analyse_cv_LLM\Backend\data\cv_brut\Mohamed_Mokhlis_s_CV__Data_Scientist_Développeur_Big_Data___1_.pdf'
+2025-06-04 14:41:08,836 - ERROR - Erreur lors du traitement de Mohamed_Mokhlis_s_CV__Data_Scientist_Développeur_Big_Data___1_.pdf: no such file: 'C:\analyse_cv_LLM\Backend\data\cv_brut\Mohamed_Mokhlis_s_CV__Data_Scientist_Développeur_Big_Data___1_.pdf'
+Traceback (most recent call last):
+  File "C:\analyse_cv_LLM\Backend\src\feature_extraction_llm.py", line 335, in process_file
+    text = PDFTextExtractor.extract(file_path)
+  File "C:\analyse_cv_LLM\Backend\src\feature_extraction_llm.py", line 75, in extract
+    with fitz.open(file_path) as doc:
+  File "C:\analyse_cv_LLM\Backend\src\env\lib\site-packages\pymupdf\__init__.py", line 2958, in __init__
+    raise FileNotFoundError(f"no such file: '{filename}'")
+pymupdf.FileNotFoundError: no such file: 'C:\analyse_cv_LLM\Backend\data\cv_brut\Mohamed_Mokhlis_s_CV__Data_Scientist_Développeur_Big_Data___1_.pdf'
+2025-06-04 14:41:09,847 - INFO - Traitement de : Mohamed_Mokhlis_s_CV__Data_Scientist_Développeur_Big_Data___2_.pdf
+2025-06-04 14:44:46,717 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\Mohamed_Mokhlis_s_CV__Data_Scientist_Développeur_Big_Data___2_.json
+2025-06-04 14:44:47,732 - INFO - Traitement de : Recreating_Business_Insider_s_CV_of_Marissa_Mayer.pdf
+2025-06-04 14:47:17,595 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\Recreating_Business_Insider_s_CV_of_Marissa_Mayer.json
+2025-06-04 14:47:18,601 - INFO - Traitement de : rima.pdf
+2025-06-04 14:51:46,108 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\rima.json
+2025-06-04 14:51:47,114 - INFO - Traitement de : safa.pdf
+2025-06-04 14:55:52,105 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\safa.json
+2025-06-04 14:55:53,112 - INFO - Traitement de : Software_Engineer_Resume.pdf
+2025-06-04 14:58:36,117 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\Software_Engineer_Resume.json
+2025-06-04 14:58:37,122 - INFO - Traitement de : yassine.pdf
+2025-06-04 15:02:38,301 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\yassine.json
+2025-06-04 15:02:39,312 - INFO - Traitement de : yosr.pdf
+2025-06-04 15:05:58,149 - INFO - Résultat sauvegardé dans C:\analyse_cv_LLM\Backend\data\dossier_feature\yosr.json
+2025-06-04 15:05:59,157 - INFO - 25 fichiers traités avec succès sur 27.
