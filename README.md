@@ -1,58 +1,70 @@
-# 🧠 Analyse Intelligente de CV
+#  Analyse Intelligente de CV
 
-Ce projet exploite la puissance de l'intelligence artificielle, notamment les modèles de langage (LLM), pour analyser automatiquement des CV au format PDF. Il permet d'extraire les informations clés, de classifier les profils professionnels et de fournir un score global de qualité du CV.
-
+Ce projet utilise l'intelligence artificielle, notamment des modèles de langage (LLM), pour analyser automatiquement des CV au format PDF. Il extrait les informations clés, classe les profils professionnels et attribue un score global de qualité du CV.
 
 ##  Fonctionnalités principales
 
-- **Extraction intelligente d'informations** via un LLM (Llama3.2:3b)
-- **Classification précise des profils** professionnels
-- **Interface utilisateur intuitive** avec Streamlit
-- **Analyse détaillée**  classification du profil et Score, coordonnées, expériences professionnelles, projets réalisés, formations, certifications, compétences, langues, centres d’intérêt, vie associative, etc.
-- **Visualisations interactives** résultats
+- **Extraction intelligente d'informations** à l'aide du modèle LLM (Llama3.2:3b)
+- **Interface utilisateur intuitive** développée avec Streamlit
+- **Analyse détaillée** : classification du profil, score global, coordonnées, expériences professionnelles, projets réalisés, formations, certifications, compétences, langues, centres d'intérêt, vie associative, etc.
+- **Visualisations interactives** des résultats
 
+## Schéma global du pipeline
 
-## 🔄 Schéma global du pipeline
-
-
-    A[ CV (PDF)] --> B[🔍 Extraction de texte]
+```
+graph TD
+    A[CV (PDF)] --> B[🔍 Extraction de texte]
     B --> C[🧹 Prétraitement NLP]
-    C --> D[ LLM: Extraction d'entités + Classification + Score]
-    D --> E[ Données structurées]
+    C --> D[LLM : Extraction d'entités + Classification + Score]
+    D --> E[Données structurées]
     E --> F[🖥️ Interface utilisateur (Streamlit)]
+```
 
-🛠️ Technologies utilisées
-Backend :
-Python 3.10.0
-LLM: model:llama3.2:3b
-Flask (API Flask)
-Streamlit
-💻 Interface Utilisateur avec Streamlit
-Un fichier streamlit_app.py est inclus pour permettre aux utilisateurs d’interagir avec le modèle (llama3.2:3b) via une interface simple.
+##  Technologies utilisées
 
-### Prérequis
+### Backend
+- Python 3.10.0
+- LLM : Llama3.2:3b
+- Flask (API)
+- Streamlit
+
+### Frontend
+- Interface utilisateur avec Streamlit (fichier `streamlit_app.py`)
+
+##  Prérequis
+
 - Python 3.10.0
 - pip
+- Environnement virtuel 
+ # Installation
 
-### Installation des dépendances
 
-cd analyse_cv_LLM
-# Créer un environnement virtuel
-python -m venv venv
-# Sur Windows: venv\Scripts\activate
+1. Créez et activez un environnement virtuel :
+   ```
+   python -m venv venv
+   # Sur Windows : venv\Scripts\activate
+   ```
+2. Installez les dépendances :
+    ```
+    pip install -r requirements.txt
 
-# Installer les dépendances
-pip install -r requirements.txt
+    ```
 
-# Utilisation
-Démarrer l'API Backend
-cd backend
-python app.py
-L'API sera accessible à l'adresse http://127.0.0.1:5000
+##  Utilisation
 
-Lancer l'interface Streamlit
-cd frontend
-streamlit run streamlit_app.py
-L'interface sera disponible à l'adresse http://localhost:8501/
+1. **Démarrer l'API Backend** :
+   ```
+   cd backend
+   python app.py
+   ```
+   L'API sera accessible à l'adresse : `http://127.0.0.1:5000`
 
-👨‍💻 Projet créé par Chaker Beltaief
+2. **Lancer l'interface Streamlit** :
+   ```
+   cd frontend
+   streamlit run streamlit_app.py
+   ```
+   L'interface sera disponible à l'adresse : `http://localhost:8501`
+
+## 👨‍💻 Auteur
+Projet créé par **Chaker Beltaief**
