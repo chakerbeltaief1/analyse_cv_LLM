@@ -69,10 +69,8 @@ LLM_CONFIG = {
     "model_name": "llama3.2:3b",
     "timeout_seconds": 600,
     "retry_count": 3,
-    "max_text_length": 150000
+    "max_text_length": 131072
 }
-
-
 
 # Catégories pour la classification des CV
 CV_CATEGORIES = [
@@ -217,12 +215,6 @@ def create_cv_prompt(text: str) -> str:
     return f"""
 Tu es un assistant expert en analyse de CV. Analyse ce CV et extrais TOUTES les informations disponibles dans la structure JSON exacte suivante.
 
-IMPORTANT: 
-- Si une information n'est pas présente, utilise une chaîne vide "" ou un tableau vide []
-- Sois précis et exhaustif dans l'extraction
-- Respecte exactement la structure JSON demandée
-- N'ajoute pas de commentaires ou texte supplémentaire
-- Calcule un score total sur 100 en évaluant la qualité globale du CV
 
 STRUCTURE JSON OBLIGATOIRE:
 {{
@@ -499,7 +491,7 @@ def analyze_with_llm(text: str) -> Optional[Dict[str, Any]]:
                 model=LLM_CONFIG["model_name"],
                 messages=[{"role": "user", "content": prompt}],
                 options={
-                    "num_predict": 8000,
+                    "num_predict":  131072,
                     "temperature": 0.1,
                     "top_p": 0.9
                 }
@@ -581,7 +573,7 @@ def match_with_llm(cv_text: str, job_offer: Dict[str, Any]) -> Optional[Dict[str
                 model=LLM_CONFIG["model_name"],
                 messages=[{"role": "user", "content": prompt}],
                 options={
-                    "num_predict": 8000,
+                    "num_predict":  131072,
                     "temperature": 0.1,
                     "top_p": 0.9
                 }
@@ -655,7 +647,7 @@ def classify_with_llm(text: str) -> Optional[Dict[str, Any]]:
                 model=LLM_CONFIG["model_name"],
                 messages=[{"role": "user", "content": prompt}],
                 options={
-                    "num_predict": 8000,
+                    "num_predict":  131072,
                     "temperature": 0.2,
                     "top_p": 0.9
                 }

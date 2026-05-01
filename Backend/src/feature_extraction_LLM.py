@@ -48,7 +48,7 @@ class CVAnalyzerConfig:
     max_workers: int = 2  # Reduced for stability
     timeout_seconds: int = 60  # Increased timeout
     retry_count: int = 3
-    max_text_length: int = 150000 # Reduced for better processing
+    max_text_length: int = 131072 
     
     @classmethod
     def from_dict(cls, config_dict: Dict[str, Any]) -> 'CVAnalyzerConfig':
@@ -273,7 +273,7 @@ class LLMClient:
                     options={
                         "temperature": 0.1,  # Lower temperature for more consistent output
                         "top_p": 0.9,
-                        "num_predict": 2048,  # Limit response length
+                        "num_predict":  3072,  # Limit response length
                     }
                 )
                 
@@ -421,7 +421,7 @@ def main():
         "max_workers": 2,
         "timeout_seconds": 120,
         "retry_count": 3,
-        "max_text_length": 8000
+        "max_text_length": 131072
     }
     
     # Configuration du logging

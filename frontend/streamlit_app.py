@@ -1249,12 +1249,12 @@ def main():
             # Essayer chemin relatif d'abord
             logo_path = "logo/logo-unilog.png" 
             if os.path.exists(logo_path):
-                 st.image(logo_path, width=200)
+                 st.image(logo_path, width=400)
             else:
                  # Tenter le chemin absolu fourni initialement si relatif échoue
                  abs_logo_path = r"C:\analyse_cv_LLM\frontend\logo\logo-unilog.png"
                  if os.path.exists(abs_logo_path):
-                     st.image(abs_logo_path, width=200)
+                     st.image(abs_logo_path, width=400)
                  # else:
                  #     st.caption("Logo non trouvé.")
         except Exception as e:
@@ -1468,4 +1468,3 @@ if __name__ == "__main__":
         # Capturer les erreurs globales non gérées
         st.error("Une erreur critique est survenue dans l'application.")
         st.exception(main_err)
-

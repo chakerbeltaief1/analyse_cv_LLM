@@ -1,0 +1,99 @@
+{
+  "informations_personnelles": {
+    "nom_prenom": "Fedi SOLTANI",
+    "email": "di68@gmail.com",
+    "telephone": "+216 53 064 275",
+    "adresse": "Tunis, Tunisi",
+    "github": "link din.com/in/f-di-soltani1",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "profil": "Dév lopp ur Fullstack .NET",
+  "experiences_professionnelles": [
+    {
+      "type": "Développeur Full Stack .NET Core Access international (Consultant externe - Ministère des Transports du Québec)",
+      "poste": "",
+      "entreprise": "Access international",
+      "date_debut": "août 2024",
+      "date_fin": "",
+      "description": "Conception, développement et optimisation d solutions web pour clients publics et privés.",
+      "competences_utilisees": []
+    }
+  ],
+  "formation": [
+    {
+      "niveau": "Diplômé",
+      "diplome": "ESPRI av c plus",
+      "etablissement": "ESPRIT Tunis (2019-2022)",
+      "specialite": "",
+      "date_debut": "2019",
+      "date_fin": "2022",
+      "description": ""
+    }
+  ],
+  "projets": [
+    {
+      "titre": "APVHN Application d G stion d s P rmis pour Convois Hors Norm s",
+      "description": "Développement de la conception et du développement d une solution web pour la gestion des permis de transport hors normaux.",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    },
+    {
+      "titre": "Application d G stion d un C ntr d Pilat s",
+      "description": "Développement de fonctionnalités pour la gestion des cours, inscriptions et abonnements.",
+      "technologies": [],
+      "responsabilites": [],
+      "date_debut": "",
+      "date_fin": ""
+    }
+  ],
+  "competences": {
+    "langages_programmation": [
+      ".NET Cor 6/8",
+      ".NET Fram work 4.8"
+    ],
+    "frameworks_bibliotheques": [
+      "Entity Fram work",
+      "Razor Pag s",
+      "SQL S rv r"
+    ],
+    "outils_developpement": [],
+    "bases_donnees": [
+      "Postgr SQL"
+    ],
+    "methodologies": [],
+    "cloud_devops": [
+      "Azur D vOps"
+    ],
+    "autres": []
+  },
+  "langues": [
+    {
+      "langue": "Français",
+      "niveau": "prof ssionn l"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "prof ssionn l"
+    }
+  ],
+  "vie_associative": [],
+  "certifications": [
+    {
+      "titre": "",
+      "organisme": "",
+      "date": "",
+      "details": ""
+    }
+  ],
+  "soft_skills": [],
+  "centres_interet": [],
+  "metadata": {
+    "fichier_source": "fedi.pdf",
+    "taille_texte": 3397,
+    "date_traitement": "2025-10-11 13:35:54",
+    "modele_utilise": "llama3.2:3b"
+  }
+}

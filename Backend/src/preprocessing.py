@@ -4,7 +4,6 @@ import string
 import pandas as pd
 import nltk
 import sys
-
 from nltk.tokenize import RegexpTokenizer, word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
@@ -47,7 +46,7 @@ def preprocess(sentence):
 
     return ' '.join(filtered_words)
 
-# ✅ CHEMINS - Ajuste ce nom de fichier si besoin
+#  - Ajuste ce nom de fichier si besoin
 input_path = r'C:\analyse_cv_LLM\Backend\data\raw_resume\raw_resume.csv'
 output_path = r'C:\analyse_cv_LLM\Backend\data\cleaned_resume\cleaned_resume.csv'
 
@@ -55,7 +54,7 @@ output_path = r'C:\analyse_cv_LLM\Backend\data\cleaned_resume\cleaned_resume.csv
 if not os.path.exists(input_path):
     print(f"❌ Fichier introuvable : {input_path}")
     dir_path = os.path.dirname(input_path)
-    print(f"📁 Contenu de {dir_path} :")
+    print(f"Contenu de {dir_path} :")
     for file in os.listdir(dir_path):
         print(f" - {file}")
     sys.exit()
@@ -74,7 +73,7 @@ resume_data.drop(['Raw_Details'], axis=1, inplace=True)
 
 # Sauvegarder le fichier nettoyé
 resume_data.to_csv(output_path, index=False)
-print(f"✅ Données nettoyées enregistrées dans : {output_path}")
+print(f" Données nettoyées enregistrées dans : {output_path}")
 
 # ---- Analyse de fréquence des mots ----
 oneSetOfStopWords = set(stopwords.words('english') + ['``', "''"])
